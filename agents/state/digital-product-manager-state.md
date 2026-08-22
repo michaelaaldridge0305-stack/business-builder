@@ -1,38 +1,28 @@
 # Digital Product Manager State
 
-**Updated:** 21 August 2026
-**Status:** ACTIVE - VALIDATION
+**Updated:** 22 August 2026
+**Status:** ESCALATION - HUMAN VALIDATION REQUIRED
 
 ## Current priority
 
 AI Quality System / finance AI quality proposition.
 
-## Current gate
+## Work completed this run
 
-Do not build the finished paid product yet. The proposition requires validation before full build.
+A ChatGPT exploratory replication of the A/A2/B management-commentary test was completed using the existing repository specification. The result was directionally consistent with Claude's earlier round: the one-sentence A2 control captured most of the improvement, while the fuller B method showed only a small residual advantage.
 
-## Evidence reviewed
+Indicative mean scores were A 13.0/20, A2 18.3/20 and B 19.3/20. This is exploratory rather than blinded evidence because the runtime had access to the test specification.
 
-The current repository contains:
+## Product decision
 
-- the narrowed Product 1 proposition;
-- Test 01 management-narrative validation design;
-- Claude's adversarial redesign review;
-- Claude raw trial outputs;
-- Claude trial evaluation.
+MODIFY. Do not build the broad six-stage paid product yet. The evidence points toward a narrower potential asset: job-specific professional checks, failure examples and verification procedures, rather than a generic workflow framework.
 
-Claude's evaluation is explicitly contaminated by self-authorship/self-scoring and therefore is not sufficient evidence for a KEEP decision. Its provisional verdict is MODIFY. It reports that a one-sentence competent-use control (A2) matched the full Ikhaya method (B) in that self-administered round, making independent replication the next material evidence requirement.
+AI-only testing on the current scenario has reached diminishing returns. The next material evidence is the existing human-validation gate: test transferability, review effort and willingness to pay with real target users using safe fictional data.
 
-## Product Manager decision
+## Owner action required
 
-Do not escalate this to Michaela merely because the Claude round finished. The existing evidence already specifies the next routine internal step and does not require an owner-level strategic decision.
+Yes. Human validation is now required. AI cannot fabricate prospective-customer behaviour or willingness to pay. A lean test can be run without paid tooling, but it needs access to genuine target finance users.
 
-Next work should focus on independent replication of the key A/A2/B comparison using ChatGPT, while preserving separation between generation and evaluation as far as available tooling permits. Results should be committed to the repository. This tests whether the proposed paid method creates value beyond a cheap/free competent prompt improvement.
+## Escalation reason
 
-## Owner action required now
-
-None.
-
-## Escalate when
-
-Escalate if validation requires real prospective-customer interviews/pre-sales, new spending, external publishing, permissions, or if independent evidence creates a genuine strategic fork that cannot be resolved from the agreed commercial criteria.
+Charter condition 8: validation requiring humans.
