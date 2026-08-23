@@ -1,28 +1,43 @@
 # Digital Product Manager State
 
-**Updated:** 22 August 2026
-**Status:** ESCALATION - HUMAN VALIDATION REQUIRED
+**Updated:** 23 August 2026
+**Status:** ESCALATION - HUMAN TRANSFER TEST READY
 
 ## Current priority
 
 AI Quality System / finance AI quality proposition.
 
+## Evidence to date
+
+AI-only A/A2/B testing is directionally consistent across Claude and ChatGPT exploratory work: a single sensible uncertainty instruction captures much of the benefit of the broader six-stage method. The current proposition therefore remains MODIFY rather than BUILD.
+
+The commercially plausible narrower asset is job-specific finance quality controls, failure examples and verification procedures. This still requires evidence that a real finance professional can apply the controls to a new scenario without a scenario-specific answer key, and that the checking process reduces rather than adds work.
+
 ## Work completed this run
 
-A ChatGPT exploratory replication of the A/A2/B management-commentary test was completed using the existing repository specification. The result was directionally consistent with Claude's earlier round: the one-sentence A2 control captured most of the improvement, while the fuller B method showed only a small residual advantage.
+A new blind human transfer test has been created at:
 
-Indicative mean scores were A 13.0/20, A2 18.3/20 and B 19.3/20. This is exploratory rather than blinded evidence because the runtime had access to the test specification.
+`products/ai-quality-system/validation/human-test-01-michaela.md`
 
-## Product decision
-
-MODIFY. Do not build the broad six-stage paid product yet. The evidence points toward a narrower potential asset: job-specific professional checks, failure examples and verification procedures, rather than a generic workflow framework.
-
-AI-only testing on the current scenario has reached diminishing returns. The next material evidence is the existing human-validation gate: test transferability, review effort and willingness to pay with real target users using safe fictional data.
+It uses a new fictional company and management pack, not the Northstar benchmark. The participant receives concise generic finance quality controls but no hidden answer key. The test captures first-draft quality, correction burden, actual timed effort, repeat-use intent and unprompted willingness-to-pay feedback.
 
 ## Owner action required
 
-Yes. Human validation is now required. AI cannot fabricate prospective-customer behaviour or willingness to pay. A lean test can be run without paid tooling, but it needs access to genuine target finance users.
+Yes. Michaela has volunteered to be a target-user tester. She should now complete Human Transfer Test 01 using only the participant pack and return:
+
+- first complete AI draft;
+- final corrected commentary;
+- build time;
+- review/correction time;
+- four 1-to-5 ratings;
+- answers to the five post-test questions.
+
+The Product Manager should not reveal evaluator expectations before these are captured.
 
 ## Escalation reason
 
-Charter condition 8: validation requiring humans.
+Charter condition 8: validation requiring a human participant.
+
+## Next automatic action after results
+
+Blindly evaluate the first and final outputs against finance-quality criteria, calculate correction burden, compare the participant's experience with the product hypothesis, record the evidence, and make the next KEEP / MODIFY / DROP decision without asking the owner to direct routine analysis.
