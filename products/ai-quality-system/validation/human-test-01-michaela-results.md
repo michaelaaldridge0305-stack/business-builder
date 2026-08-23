@@ -9,13 +9,13 @@
 
 The participant was guided using only the participant pack. Evaluator notes, hidden expectations, benchmark answers and earlier Northstar test material were not opened or shown.
 
-The timed test ended after the participant accepted the corrected commentary and supplied the four ratings. A further writing-style critique was requested after that point. It is recorded separately as untimed post-test discussion and is excluded from the test timings and timed final version.
+The participant completed the output and ratings, but later confirmed that dinner arrived and the timer was not stopped. The first-draft build time remains valid because it was captured before the interruption. Review and total timings are marked invalid rather than estimated. A further writing-style critique is recorded separately as untimed post-test discussion.
 
 ## Timings
 
 - **Build time:** 27.59 seconds
-- **Review/correction time:** 5 minutes 4 seconds
-- **Total timed test:** 5 minutes 31.59 seconds
+- **Review/correction time:** Invalid because the timer continued during an interruption
+- **Total timed test:** Invalid because the timer continued during an interruption
 
 ## First complete AI draft
 
