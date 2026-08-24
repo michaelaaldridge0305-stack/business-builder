@@ -9,7 +9,7 @@
 
 - Participant materials only used before completion: Yes
 - Evaluator pack remained hidden: Yes
-- Any integrity issue: None identified
+- Any integrity issue: **Material model-side contamination.** The participant was not shown the evaluator pack, but the AI generating the draft was operating in the same conversation in which the evaluator material had previously been created. The output therefore cannot be treated as a clean blind test of whether participant instructions alone produced the result.
 
 ## Timings
 
@@ -126,7 +126,9 @@ The Finance Manager remains responsible for reviewing and approving the final co
 4. Net effort effect: The checks absolutely saved effort overall.
 5. Willingness to pay and price: Yes, £18.
 
-## Blind evaluator score
+## Post-test evaluator score
+
+This score assesses the final artefact's quality. It is not a genuinely blind experimental score because the generating AI had prior conversational exposure to the evaluator material.
 
 | Dimension | Score |
 |---|---:|
@@ -155,12 +157,70 @@ None.
 - Discard/rebuild: No
 - Valid active correction time: 1 minute 15 seconds
 
+## Independent numerical audit
+
+Every reported variance was recalculated from the participant pack:
+
+| Measure | Calculation | Reported | Result |
+|---|---:|---:|---|
+| September revenue vs budget | £1,420k - £1,300k | £120k favourable | Correct |
+| September revenue vs last year | £1,420k - £1,255k | £165k favourable | Correct |
+| Gross profit vs budget | £398k - £390k | £8k favourable | Correct |
+| Gross margin vs budget | 28.0% - 30.0% | 2.0 percentage points adverse | Correctly described using both percentages |
+| Installation payroll vs budget | £214k - £185k | £29k adverse | Correct |
+| Unexplained payroll balance | £29k - £18k | £11k | Arithmetically correct, subject to confirming overtime budget treatment |
+| Subcontractors vs budget | £96k - £72k | £24k adverse | Correct |
+| Other operating costs vs budget | £61k - £64k | £3k favourable | Correct |
+| Operating profit vs budget | £27k - £69k | £42k adverse | Correct |
+| Operating profit vs last year | £27k - £73k | £46k adverse | Correct |
+| Receivables vs budget | £1,860k - £1,520k | £340k adverse | Correct |
+| Undisputed overdue balance | £240k - £35k | £205k | Correctly described without unnecessarily calculating it in the commentary |
+| YTD revenue vs budget | £10,210k - £10,080k | £130k favourable | Correct |
+| YTD gross profit vs budget | £2,933k - £3,024k | £91k adverse | Correct |
+| YTD payroll vs budget | £1,518k - £1,402k | £116k adverse | Correct |
+| YTD subcontractors vs budget | £604k - £545k | £59k adverse | Correct |
+| YTD other operating costs | £451k - £458k | £7k favourable | Correct |
+| YTD operating profit vs budget | £360k - £619k | £259k adverse | Correct |
+
+The operating-profit bridge also reconciles:
+
+- gross profit: £8k favourable;
+- installation payroll: £29k adverse;
+- subcontractors: £24k adverse;
+- other operating costs: £3k favourable;
+- net movement: £42k adverse.
+
+No numerical, sign, comparator or period error was found.
+
+## Writing and analytical critique
+
+Strengths:
+
+- The revenue timing movement was not presented as additional full-year revenue.
+- The margin decline was not attributed to the accelerated project without project-level evidence.
+- The £31k project subcontractor cost was not incorrectly treated as a complete explanation of the £24k adverse variance.
+- Only £35k of the overdue balance was described as disputed.
+- The overdue balance was treated as a collection and credit risk, not a confirmed bad debt.
+- Monthly and year-to-date positions were kept separate.
+- Actions were specific and proportionate.
+
+Improvement identified by the participant:
+
+- Phrases such as "has not yet been calculated" can sound as though Finance failed to complete its work. The corrected version appropriately states what information was available for the commentary without inventing a reason for the gap.
+
+Further evaluator caution:
+
+- Saying the £18k overtime "explains" £18k of the payroll variance is reasonable for this fictional test and matches the intended analysis, but in a real pack the budget treatment of overtime should be confirmed before treating the whole amount as a variance explanation.
+- The final output is accurate but still slightly longer than some MD packs would require. This is a configurable house-style issue, not a reliability defect.
+
 ## Decision
 
-**ADVANCE TO NARROW BETA SPECIFICATION**
+**MODIFY: QUALITY PASSED, BLIND VALIDATION MUST BE REPEATED**
 
 ## Evidence-based reason
 
-The participant applied the revised controls to a second unseen finance scenario without scenario-specific evaluator guidance. The first draft contained no identified numerical, analytical or risk-language failure, required only one house-style adjustment and was reviewed in 1 minute 15 seconds. Total active time was 3 minutes 1 second.
+The artefact passed the numerical and analytical review, required no factual correction and took 3 minutes 1 second of valid active time. This supports practical usefulness and low correction burden.
 
-The test strengthens evidence for repeatability, low correction burden and practical value. It does not establish independent customer demand because the participant remains the product owner. The next authorised internal step is to prepare the narrow beta specification. Independent target-user validation remains a gate before public launch or broad commercial claims.
+However, the generating AI had prior access within the conversation to the evaluator material. Test 02 therefore cannot be used as clean evidence that the participant controls alone caused the strong result. It also does not establish independent customer demand because the participant is the product owner.
+
+The Product Manager may continue preparing an internal narrow-beta specification because two usable artefacts now exist. Before treating the workflow as independently validated or moving to public launch, repeat the test in a fresh AI session that receives only the participant pack, followed by at least two independent target-user tests.
