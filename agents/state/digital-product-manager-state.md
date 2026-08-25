@@ -1,48 +1,44 @@
 # Digital Product Manager State
 
-**Updated:** 25 August 2026  
-**Status:** INDEPENDENT HUMAN VALIDATION REQUIRED
+**Updated:** 25 August 2026
+**Status:** BETA BUILD AUTHORISED
 
 ## Current priority
 
-Validate the narrow Numbers to Management Narrative beta with independent UK finance target users before further public build or launch work.
+Build and package the narrow Numbers to Management Narrative product for owner approval and launch preparation.
 
-## Current decision
+## Owner decision
 
-**INTERNAL BETA SPECIFICATION COMPLETE. HOLD AT HUMAN VALIDATION GATE.**
+On 25 August 2026, Michaela decided not to undertake further independent human testing before progressing this product and instructed the Product Manager to start progressing it.
 
-The minimum £18 to £20 beta has now been specified around one recurring finance job: turning validated management-account numbers and known context into concise management narrative with explicit evidence and verification controls.
+This is an owner-level commercial decision. Do not return to the independent-testing gate unless new evidence creates a materially different risk. Continue to describe the evidence accurately and do not claim independent validation.
 
-The specification includes editable input/context structures, reusable AI controls, house-style rules, four plausible failure examples, a final verification checklist, safe-data boundary, human-sign-off boundary and self-service support boundary.
+## Current product
 
-## Durable output
+Numbers to Management Narrative. Working price hypothesis: £18 to £20. Final launch price remains an owner approval item before external publication.
 
-- `products/ai-quality-system/numbers-to-management-narrative-beta-spec.md`
-- `products/ai-quality-system/product-decision-and-backlog.md`
-- prior human-test evidence under `products/ai-quality-system/validation/`
+## Authorised workflow
 
-## QA conclusion
+BETA SPEC -> PRODUCT BUILD -> INTERNAL QA -> REVISION -> PACKAGING -> OWNER APPROVAL -> PUBLISH READY
 
-The internal specification is coherent, deliberately narrow and buildable without new spend. It avoids the original three-workflow scope and does not rely on bespoke service delivery.
+Routine build, drafting, critique, revision and QA do not require owner intervention.
 
-The principal unresolved risk is commercial rather than drafting completeness: there is not yet independent evidence that target users experience enough incremental value over a simple free AI instruction to pay for the reusable toolkit.
+## Build requirements
 
-## Validation integrity
+Create the minimum self-service product defined in the beta specification: start-here guide; editable Numbers Input Template; Context and Evidence Template; reusable finance-specific AI instruction; House Style Template; worked failure examples; Final Verification Checklist; Safe Data and Human Sign-off note; self-service troubleshooting; and customer-facing listing/launch assets after the underlying product passes QA.
 
-Existing owner tests support artefact quality, repeat-use intent and a provisional £18 to £20 price hypothesis. They do not establish independent demand. Test 02 also had model-side contamination because the generating conversation had prior evaluator exposure.
+The finished product must be practical rather than a long ebook and must not imply bespoke finance support.
 
-## Owner action required
+## QA requirements
 
-A genuine human-validation gate has now been reached. The next evidence must come from people other than the owner.
+Before owner approval, self-review against the Digital Product Manager definition of done; verify calculations and examples; check UK English and finance terminology; ensure partial explanations remain partial; ensure incomplete analysis is explained appropriately; remove careless AI-style wording and em dashes from customer-facing copy; inspect visual deliverables; verify files open correctly; and ensure commercial claims do not overstate the available validation evidence.
 
-Required next evidence:
-1. At least two independent UK finance professionals complete a clean test using a fresh AI session with no evaluator exposure.
-2. Capture first AI draft, final version, build time, review/correction time and ratings.
-3. Have resulting artefacts evaluated independently of the generating model/session.
-4. Capture whether the workflow saves net effort and whether the tester would pay for a reusable toolkit, without showing a proposed price first.
+Failed QA returns automatically to revision.
 
-No publication, spending or claim of independent validation is authorised.
+## Owner action required now
 
-## Next automatic action after human evidence exists
+None.
 
-Evaluate the independent test artefacts, compare them with the free-instruction substitute, update the commercial decision and either progress to beta packaging/pre-sale validation, revise the controls, or stop/reposition the product under the documented stop conditions.
+## Next owner gate
+
+Surface the work when a coherent QA-passed customer package is ready for approval, final price/publication requires approval, a required external platform permission/manual action is reached, or another documented escalation condition genuinely applies.
