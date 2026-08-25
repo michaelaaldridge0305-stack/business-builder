@@ -1,39 +1,48 @@
 # Digital Product Manager State
 
-**Updated:** 24 August 2026  
-**Status:** INTERNAL BETA SPECIFICATION AUTHORISED
+**Updated:** 25 August 2026  
+**Status:** INDEPENDENT HUMAN VALIDATION REQUIRED
 
 ## Current priority
 
-Define the narrow Numbers to Management Narrative beta without building the original three-workflow product.
+Validate the narrow Numbers to Management Narrative beta with independent UK finance target users before further public build or launch work.
 
 ## Current decision
 
-**MODIFY AND PREPARE AN INTERNAL NARROW BETA.**
+**INTERNAL BETA SPECIFICATION COMPLETE. HOLD AT HUMAN VALIDATION GATE.**
 
-Test 02 produced an accurate, professionally usable artefact in 3 minutes 1 second of active time, with no factual or analytical correction and one house-style correction. The participant rated every measure 5/5 and indicated willingness to pay £18.
+The minimum £18 to £20 beta has now been specified around one recurring finance job: turning validated management-account numbers and known context into concise management narrative with explicit evidence and verification controls.
 
-A complete independent recalculation found no numerical, sign, comparator or period error. The operating-profit bridge reconciled.
+The specification includes editable input/context structures, reusable AI controls, house-style rules, four plausible failure examples, a final verification checklist, safe-data boundary, human-sign-off boundary and self-service support boundary.
 
-## Critical evidence limitation
+## Durable output
 
-Test 02 was participant-blind but not model-blind. The generating AI was operating in the same conversation in which evaluator materials had previously been created. The quality result is valid as an artefact review, but it cannot be treated as clean proof that the participant controls alone caused the result.
-
-Independent customer demand and willingness to pay also remain unvalidated.
-
-## Durable results
-
-- `products/ai-quality-system/validation/human-test-02-results-template.md`
+- `products/ai-quality-system/numbers-to-management-narrative-beta-spec.md`
 - `products/ai-quality-system/product-decision-and-backlog.md`
+- prior human-test evidence under `products/ai-quality-system/validation/`
+
+## QA conclusion
+
+The internal specification is coherent, deliberately narrow and buildable without new spend. It avoids the original three-workflow scope and does not rely on bespoke service delivery.
+
+The principal unresolved risk is commercial rather than drafting completeness: there is not yet independent evidence that target users experience enough incremental value over a simple free AI instruction to pay for the reusable toolkit.
+
+## Validation integrity
+
+Existing owner tests support artefact quality, repeat-use intent and a provisional £18 to £20 price hypothesis. They do not establish independent demand. Test 02 also had model-side contamination because the generating conversation had prior evaluator exposure.
 
 ## Owner action required
 
-None for the next internal stage.
+A genuine human-validation gate has now been reached. The next evidence must come from people other than the owner.
 
-The Product Manager is authorised to prepare the narrow-beta specification and supporting internal assets. It must not publish, spend money or claim independent validation.
+Required next evidence:
+1. At least two independent UK finance professionals complete a clean test using a fresh AI session with no evaluator exposure.
+2. Capture first AI draft, final version, build time, review/correction time and ratings.
+3. Have resulting artefacts evaluated independently of the generating model/session.
+4. Capture whether the workflow saves net effort and whether the tester would pay for a reusable toolkit, without showing a proposed price first.
 
-## Next automatic action
+No publication, spending or claim of independent validation is authorised.
 
-Create the minimum £18 to £20 beta specification, including templates, failure examples, verification checklist, data-handling boundary and self-service support boundary.
+## Next automatic action after human evidence exists
 
-After the internal specification is complete, escalate only for the independent human-validation gate.
+Evaluate the independent test artefacts, compare them with the free-instruction substitute, update the commercial decision and either progress to beta packaging/pre-sale validation, revise the controls, or stop/reposition the product under the documented stop conditions.
