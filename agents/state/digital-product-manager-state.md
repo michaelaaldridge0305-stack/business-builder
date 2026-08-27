@@ -1,22 +1,23 @@
 # Digital Product Manager State
 
 **Updated:** 27 August 2026
-**Status:** OWNER APPROVAL REQUIRED
+**Status:** PUBLICATION PREPARATION
 
 ## Current priority
 
-Obtain owner approval of the completed Numbers to Management Narrative customer package and recommended £19 launch price before external publication/listing preparation proceeds.
+Prepare the approved Numbers to Management Narrative product for external listing and publication at the approved £19 launch price.
 
-## Owner decision carried forward
+## Owner decisions carried forward
 
-On 25 August 2026, Michaela decided not to undertake further independent human testing before progressing this product. Do not return to that gate unless materially new evidence changes the risk. Do not claim independent validation.
+- On 25 August 2026, Michaela decided not to undertake further independent human testing before progressing this product. Do not return to that gate unless materially new evidence changes the risk. Do not claim independent validation.
+- On 27 August 2026, Michaela approved the completed customer package and the **£19 launch price**.
 
 ## Work completed
 
 1. Complete written customer pack built at `products/ai-quality-system/numbers-to-management-narrative-customer-pack.md`.
 2. Underlying written product passed finance/commercial/customer QA at `numbers-to-management-narrative-qa-01.md`.
-3. Customer-facing listing, FAQ and launch copy prepared at `numbers-to-management-narrative-listing-draft.md`.
-4. Final customer delivery package rendered as an editable DOCX and fixed-layout PDF.
+3. Customer-facing listing, FAQ and launch copy prepared and owner-approved at £19 in `numbers-to-management-narrative-listing-draft.md`.
+4. Final customer delivery package rendered as editable DOCX and fixed-layout PDF.
 5. DOCX rendered to eight page images and visually inspected page by page.
 6. PDF preflight and render verification completed.
 7. Packaging/file QA passed and is documented at `numbers-to-management-narrative-packaging-qa.md`.
@@ -24,6 +25,8 @@ On 25 August 2026, Michaela decided not to undertake further independent human t
 ## Product package
 
 **Numbers to Management Narrative**
+
+Launch price: **£19**
 
 Customer package includes:
 - start-here workflow;
@@ -35,33 +38,26 @@ Customer package includes:
 - Final Verification Checklist;
 - troubleshooting;
 - Safe Data guidance;
-- Human Sign-off boundary.
-
-Delivery formats: editable DOCX plus PDF reference version.
+- Human Sign-off boundary;
+- editable DOCX customer file;
+- PDF reference version.
 
 ## QA conclusion
 
 **PASS.**
 
-No clipping, overlap, accidental blank pages, broken glyphs or file-opening errors were identified in the rendered package. Editable tables fit within the page. Customer claims remain within the available evidence.
+Customer claims remain within available evidence. Do not claim independent validation, guaranteed accuracy, quantified time savings or automated accounting.
 
-Material commercial limitation remains: independent willingness-to-pay and independent time-saving evidence have not been established because the owner chose to progress without further external testing.
+## Authorised next workflow
 
-## Commercial recommendation
+Finalise publish-ready marketplace/site assets and proceed through authorised platform preparation until a genuine account, payment, file-upload or irreversible publication action requires the owner or platform permission.
 
-Recommended launch price: **£19**.
+Routine copy refinement, metadata preparation and draft listing creation may continue without asking the owner to say continue.
 
-This sits within the existing owner-test £18 to £20 responses and is treated as a commercial hypothesis rather than independent willingness-to-pay evidence.
+## Owner action required now
 
-## Owner action required
+None.
 
-Approve or reject:
+## Next owner/platform gate
 
-1. the completed customer product/package; and
-2. the recommended £19 launch price.
-
-No external publication/listing should occur until approval is given.
-
-## Next automatic action after approval
-
-Finalise the listing assets against the approved price, prepare the publish-ready marketplace/site package, and proceed until the next genuine publishing/login/irreversible-action gate.
+Surface the work only when an external platform requires a manual login/connection, payment/tax configuration, upload/publication approval, or another consequential action that cannot be completed under current permissions.
