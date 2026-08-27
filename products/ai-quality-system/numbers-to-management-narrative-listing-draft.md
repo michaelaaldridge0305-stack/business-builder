@@ -1,8 +1,8 @@
 # Numbers to Management Narrative - Listing and Launch Assets
 
-**Status:** Internal draft. Not authorised for publication.
+**Status:** Owner-approved at £19. Publish-ready copy; external publication remains a separate action.
 
-## Recommended product name
+## Product name
 
 **Numbers to Management Narrative**
 
@@ -10,11 +10,11 @@
 
 A practical AI quality-control toolkit for turning validated management-account numbers into concise, evidence-based commentary.
 
-## Recommended launch price
+## Launch price
 
 **£19**
 
-Rationale: sits inside the owner's £18 to £20 internal willingness-to-pay evidence, is simple to communicate, and is proportionate to a narrow reusable self-service toolkit. This is a pricing recommendation, not independently validated willingness-to-pay evidence.
+The £19 price was approved by the owner on 27 August 2026. It is a commercial launch price, not a claim of independently validated willingness to pay.
 
 ## Short listing description
 
@@ -36,6 +36,8 @@ Built for finance professionals preparing management accounts. No special softwa
 - Final Verification Checklist
 - troubleshooting guide
 - Safe Data and Human Sign-off guidance
+- editable DOCX customer file
+- PDF reference version
 
 ## Who it is for
 
@@ -87,7 +89,7 @@ Only if your organisation has approved the AI service and that use of the data. 
 
 ### Will the AI write the final commentary for me?
 
-It can produce a strong first draft, but you remain responsible for checking the numbers, evidence, wording, accounting judgement and final sign-off.
+It can produce a first draft, but you remain responsible for checking the numbers, evidence, wording, accounting judgement and final sign-off.
 
 ### Is this accounting advice?
 
@@ -97,18 +99,18 @@ No. It is a self-service drafting and quality-control toolkit for finance profes
 
 The product includes troubleshooting for the workflow itself. It does not include calls, review of your real accounts, bespoke prompt engineering or accounting advice.
 
-## Launch announcement draft
+## Launch announcement
 
 **Numbers to Management Narrative is built for a very specific finance problem: the numbers are finished, but the management commentary still needs writing.**
 
-AI can make that stage much quicker to draft, but fluent output creates its own risk. A model can turn a partial explanation into a complete one, treat an indicator as a confirmed outcome, or invent a perfectly plausible cause that nobody actually supplied.
+AI can make that stage quicker to draft, but fluent output creates its own risk. A model can turn a partial explanation into a complete one, treat an indicator as a confirmed outcome, or invent a perfectly plausible cause that nobody actually supplied.
 
 This toolkit gives finance professionals a structured way to use AI without handing over professional judgement. You organise the validated numbers and evidence, AI drafts the narrative, and a finance-specific verification process helps you challenge it before sign-off.
 
 It is deliberately small and practical rather than an AI course: reusable templates, one core instruction, worked failure examples, house-style controls and a final checklist.
 
-**Recommended launch price: £19.**
+**Launch price: £19.**
 
-## Internal publication note
+## Publication controls
 
-Do not publish this listing or price without owner approval. Before publication, final customer files must be rendered, visually inspected and confirmed to open correctly.
+The product package and £19 launch price are owner-approved. Claims must remain within the wording boundaries above. External publication, platform listing creation, payment configuration and upload of customer files may proceed only through an authorised platform/account workflow, with any required manual login or irreversible publication action treated as the next owner/platform gate.
