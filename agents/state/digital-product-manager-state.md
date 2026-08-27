@@ -1,52 +1,67 @@
 # Digital Product Manager State
 
-**Updated:** 26 August 2026
-**Status:** PACKAGING IN PROGRESS
+**Updated:** 27 August 2026
+**Status:** OWNER APPROVAL REQUIRED
 
 ## Current priority
 
-Package the QA-passed Numbers to Management Narrative written product into final customer delivery files, complete visual/file QA, then surface the coherent package for owner approval.
+Obtain owner approval of the completed Numbers to Management Narrative customer package and recommended £19 launch price before external publication/listing preparation proceeds.
 
-## Owner decision
+## Owner decision carried forward
 
-On 25 August 2026, Michaela decided not to undertake further independent human testing before progressing this product and instructed the Product Manager to start progressing it.
+On 25 August 2026, Michaela decided not to undertake further independent human testing before progressing this product. Do not return to that gate unless materially new evidence changes the risk. Do not claim independent validation.
 
-This remains an owner-level commercial decision. Do not return to the independent-testing gate unless new evidence creates a materially different risk. Continue to describe the evidence accurately and do not claim independent validation.
+## Work completed
 
-## Work completed this cycle
+1. Complete written customer pack built at `products/ai-quality-system/numbers-to-management-narrative-customer-pack.md`.
+2. Underlying written product passed finance/commercial/customer QA at `numbers-to-management-narrative-qa-01.md`.
+3. Customer-facing listing, FAQ and launch copy prepared at `numbers-to-management-narrative-listing-draft.md`.
+4. Final customer delivery package rendered as an editable DOCX and fixed-layout PDF.
+5. DOCX rendered to eight page images and visually inspected page by page.
+6. PDF preflight and render verification completed.
+7. Packaging/file QA passed and is documented at `numbers-to-management-narrative-packaging-qa.md`.
 
-1. Built the complete written customer pack at `products/ai-quality-system/numbers-to-management-narrative-customer-pack.md`.
-2. Completed sceptical finance/commercial/customer QA at `products/ai-quality-system/numbers-to-management-narrative-qa-01.md`.
-3. QA passed the underlying written product. Numerical examples, evidence boundaries, professional-sign-off boundary, UK finance style and self-service scope were checked.
-4. Prepared customer-facing listing, FAQ and launch copy at `products/ai-quality-system/numbers-to-management-narrative-listing-draft.md`.
-5. Recommended £19 as the launch price for owner approval. This is based on the existing owner-test £18 to £20 hypothesis and is not described as independent willingness-to-pay evidence.
-
-## Current product
+## Product package
 
 **Numbers to Management Narrative**
 
-Core proposition: help finance professionals turn already-validated management-account numbers and known context into concise management narrative using structured evidence and verification controls.
+Customer package includes:
+- start-here workflow;
+- editable Numbers Input Template;
+- editable Context and Evidence Template;
+- House Style Template;
+- reusable finance-specific AI instruction;
+- four worked failure examples;
+- Final Verification Checklist;
+- troubleshooting;
+- Safe Data guidance;
+- Human Sign-off boundary.
 
-The customer pack now includes the start-here workflow, Numbers Input Template, Context and Evidence Template, House Style Template, reusable AI instruction, four worked failure examples, Final Verification Checklist, troubleshooting, Safe Data guidance and Human Sign-off boundary.
+Delivery formats: editable DOCX plus PDF reference version.
 
 ## QA conclusion
 
-Underlying written content: **PASS**.
+**PASS.**
 
-Material remaining commercial risk: independent willingness-to-pay has not been established because the owner explicitly chose to progress without further human validation. No customer-facing claim may imply independent validation, guaranteed time saving or error-free output.
+No clipping, overlap, accidental blank pages, broken glyphs or file-opening errors were identified in the rendered package. Editable tables fit within the page. Customer claims remain within the available evidence.
 
-Remaining QA before owner approval: final delivery files must be rendered and visually inspected for clipping, overlap, blank pages, unreadable text, incorrect branding and file-opening errors.
+Material commercial limitation remains: independent willingness-to-pay and independent time-saving evidence have not been established because the owner chose to progress without further external testing.
 
-## Authorised workflow
+## Commercial recommendation
 
-PACKAGING -> VISUAL/FILE QA -> REVISION IF REQUIRED -> OWNER APPROVAL -> PUBLISH READY
+Recommended launch price: **£19**.
 
-Routine packaging, critique, revision and QA do not require owner intervention.
+This sits within the existing owner-test £18 to £20 responses and is treated as a commercial hypothesis rather than independent willingness-to-pay evidence.
 
-## Owner action required now
+## Owner action required
 
-None.
+Approve or reject:
 
-## Next owner gate
+1. the completed customer product/package; and
+2. the recommended £19 launch price.
 
-Surface the work when the coherent final customer package has passed visual/file QA. At that point request approval of the product package and recommended £19 launch price before any external publication/listing.
+No external publication/listing should occur until approval is given.
+
+## Next automatic action after approval
+
+Finalise the listing assets against the approved price, prepare the publish-ready marketplace/site package, and proceed until the next genuine publishing/login/irreversible-action gate.
