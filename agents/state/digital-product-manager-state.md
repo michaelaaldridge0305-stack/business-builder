@@ -1,63 +1,42 @@
 # Digital Product Manager State
 
-**Updated:** 27 August 2026
-**Status:** PUBLICATION PREPARATION
+**Updated:** 28 August 2026
+**Status:** WORDPRESS DRAFT CREATION - OWNER CONFIRMATION REQUIRED
 
 ## Current priority
 
-Prepare the approved Numbers to Management Narrative product for external listing and publication at the approved £19 launch price.
+Create the approved Numbers to Management Narrative product landing page as a draft on Ikhaya Automations, then QA it before any publication decision.
 
 ## Owner decisions carried forward
 
 - On 25 August 2026, Michaela decided not to undertake further independent human testing before progressing this product. Do not return to that gate unless materially new evidence changes the risk. Do not claim independent validation.
-- On 27 August 2026, Michaela approved the completed customer package and the **£19 launch price**.
+- On 27 August 2026, Michaela approved the completed customer package and the £19 launch price.
 
 ## Work completed
 
-1. Complete written customer pack built at `products/ai-quality-system/numbers-to-management-narrative-customer-pack.md`.
-2. Underlying written product passed finance/commercial/customer QA at `numbers-to-management-narrative-qa-01.md`.
-3. Customer-facing listing, FAQ and launch copy prepared and owner-approved at £19 in `numbers-to-management-narrative-listing-draft.md`.
-4. Final customer delivery package rendered as editable DOCX and fixed-layout PDF.
-5. DOCX rendered to eight page images and visually inspected page by page.
-6. PDF preflight and render verification completed.
-7. Packaging/file QA passed and is documented at `numbers-to-management-narrative-packaging-qa.md`.
+1. Customer pack completed and QA-passed.
+2. Editable DOCX and PDF package completed and visually/file QA-passed.
+3. Listing, FAQ and launch copy completed at the approved £19 price.
+4. Publication-ready website copy, metadata, CTA wording, FAQ, commercial boundaries and publication QA completed at `products/ai-quality-system/numbers-to-management-narrative-publication-pack.md`.
+5. Connected Ikhaya Automations WordPress site confirmed available at `ikhayaautomations.com`.
+6. Current WordPress theme confirmed as Assembler and theme presets inspected so the eventual draft can align to the live site rather than introducing arbitrary styling.
 
-## Product package
-
-**Numbers to Management Narrative**
-
-Launch price: **£19**
-
-Customer package includes:
-- start-here workflow;
-- editable Numbers Input Template;
-- editable Context and Evidence Template;
-- House Style Template;
-- reusable finance-specific AI instruction;
-- four worked failure examples;
-- Final Verification Checklist;
-- troubleshooting;
-- Safe Data guidance;
-- Human Sign-off boundary;
-- editable DOCX customer file;
-- PDF reference version.
-
-## QA conclusion
+## Publication QA conclusion
 
 **PASS.**
 
-Customer claims remain within available evidence. Do not claim independent validation, guaranteed accuracy, quantified time savings or automated accounting.
+The publication pack uses the approved £19 price consistently and does not claim independent validation, guaranteed accuracy, quantified time savings or automated accounting. Scope, safe-data guidance and human-sign-off boundaries are explicit. Customer-facing copy uses UK English and avoids em dashes.
 
-## Authorised next workflow
+## Current platform gate
 
-Finalise publish-ready marketplace/site assets and proceed through authorised platform preparation until a genuine account, payment, file-upload or irreversible publication action requires the owner or platform permission.
+WordPress content-authoring safety controls require explicit owner confirmation before any page creation, including creation of a non-public draft. This is a genuine publishing/platform escalation condition under the operating charter.
 
-Routine copy refinement, metadata preparation and draft listing creation may continue without asking the owner to say continue.
+No external page has been created yet.
 
-## Owner action required now
+## Owner action required
 
-None.
+Confirm creation of a **draft** WordPress product page titled `Numbers to Management Narrative` on Ikhaya Automations using the QA-passed publication pack. The draft will not be published. It will be created for review and visual QA only.
 
-## Next owner/platform gate
+## Automatic action after confirmation
 
-Surface the work only when an external platform requires a manual login/connection, payment/tax configuration, upload/publication approval, or another consequential action that cannot be completed under current permissions.
+Create the WordPress draft using the existing site's design context, inspect the saved result for content warnings and presentation issues, revise internally where permitted, update repository state, and proceed until the next genuine external publication/payment/file-delivery gate.
