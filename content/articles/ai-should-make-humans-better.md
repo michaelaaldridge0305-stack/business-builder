@@ -1,204 +1,267 @@
-# What If AI Could Give Us More Time to Be Human?
+# AI Is Replacing Tasks. That Does Not Mean It Should Replace Us.
 
 **Status:** Revised draft, pending owner approval
 **Brand:** Ikhaya Automations
 
-There are parts of work that make us better at what we do, and there are parts that simply make us tired.
+There is a fear sitting underneath a lot of conversations about AI at work.
 
-Chasing information through emails. Reformatting the same report. Copying numbers between systems. Writing the first version of something we already understand. Searching for a document we know exists somewhere.
+What happens to us if the technology keeps getting better?
 
-These tasks are not meaningless. They still need doing. But they are rarely the reason somebody chose their profession, started a business or joined a team.
+If AI can write the email, summarise the meeting, analyse the data, create the first draft, answer the customer and automate the admin, where does that leave the person?
 
-When I think about what AI could genuinely improve, I do not picture a future where humans disappear from the process.
+It is not an irrational fear. Some tasks will disappear. Some roles will change significantly. Some businesses will use AI to reduce headcount. Pretending otherwise does not help anybody.
 
-I picture one where we get a little more time and headspace back for the parts that actually need us.
+But I think there is another way to look at the same technology.
 
-The conversation around AI often starts somewhere else. How many tasks can it automate? How many hours can it save? How many people might a business no longer need?
+The question is not only what AI can take away from people.
 
-Those questions are understandable, especially when organisations are under pressure to reduce costs. But they are not the only questions that matter.
+It is also what AI can give back.
 
-A better one might be this:
+Time. Headspace. Confidence. Access to knowledge. The chance to spend less of the day on mechanical work and more of it on the things that still need a human being.
 
-**Does using AI leave the human being more capable than they were before?**
+Judgement. Empathy. Context. Curiosity. Trust. Responsibility.
 
-Because that is the version of AI worth aiming for.
+Used well, AI should not remove the human from work. It should create more room for the human part of work.
 
-## Giving people time back
+## The fear is real, but the framing matters
 
-AI is often at its most useful in the ordinary, slightly frustrating parts of the working day.
+A lot of AI discussion starts with replacement.
 
-It can summarise a long document before you read it properly. It can turn a page of notes into a first draft. It can help organise information, compare options, find patterns, suggest a structure or explain something in simpler language.
+How many jobs can be automated? How many hours can be saved? How much work can one person now do with an AI assistant?
 
-Used well, that is not about producing more and more work for the sake of it.
+Those questions matter commercially. Businesses have to think about productivity and cost.
 
-It is about removing some of the friction that fills the day so there is more space for better work.
+But if replacement becomes the only measure of success, we miss something important.
 
-That might mean spending longer with a customer rather than another spreadsheet. Thinking through a decision rather than formatting the paper that explains it. Coaching someone properly instead of rushing between administrative tasks. Learning something new. Asking a better question. Noticing something that would otherwise have been missed.
+Most jobs are not one single task. They are a bundle of very different activities.
 
-The value is not the automation itself. The value is what the person can do with the capacity it creates.
+A finance role might include copying data between systems, reformatting reports, investigating anomalies, explaining results to management and challenging a decision that does not look right.
 
-That is one of the ideas I liked most in a recent Decisions article about AI making us more human. It argues that automation is useful when it gives people more room for creativity, strategy, relationships and craft, rather than simply helping us complete more low-value work faster. That is a useful way to think about AI because it puts the human outcome before the technology. 
+A customer-service role might include searching for information, typing routine responses, calming an upset customer and knowing when the normal process is not good enough.
 
-For a small business, this can matter even more. There may not be a large team to absorb repetitive work or a specialist available every time somebody gets stuck. If AI can take twenty minutes out of a recurring admin task, help someone understand a difficult document or give them a sensible starting point, that reclaimed capacity can be genuinely valuable.
+A manager might spend time preparing notes, chasing updates, reviewing work, coaching people and making difficult calls when the answer is not obvious.
 
-## AI can help people become more capable
+AI may be very good at some of those activities and much weaker at others.
 
-There is evidence that AI can do more than save time.
+That distinction matters.
 
-Researchers Erik Brynjolfsson, Danielle Li and Lindsey Raymond studied 5,179 customer-support agents as a generative AI assistant was introduced into their work. Productivity increased by 14% on average, but the more interesting result was where the gains appeared. Novice and lower-skilled workers improved by 34%, while the impact on highly experienced workers was much smaller.
+The opportunity is not necessarily to automate the whole job. It is to remove the parts that do not need a person's judgement so that more of their time can go into the parts that do.
 
-The researchers found suggestive evidence that the AI was helping spread some of the practices associated with stronger workers. In effect, newer employees were getting access to useful patterns and guidance while they were doing the job, rather than waiting to acquire all of that knowledge slowly through experience.
+## The human in the loop is not a weakness
 
-That is a very different story from AI simply replacing a worker.
+There is sometimes an assumption that the ultimate version of automation is a process with no human involvement at all.
 
-It suggests that AI can sometimes shorten the distance between feeling unsure and feeling capable.
+I do not think that is true for a lot of business work.
 
-That could be somebody learning how to analyse a problem, draft a clearer email, understand unfamiliar terminology or ask a better question before speaking to an expert.
+For many tasks, keeping a human in the loop is exactly what makes AI useful rather than risky.
 
-It could also make knowledge more accessible to people who have traditionally found certain systems or information harder to navigate. AI can rephrase technical language, explain the same idea in several different ways, translate, transcribe and help people organise thoughts that are difficult to get onto a blank page.
+AI can produce a first draft quickly. A person can decide whether it is appropriate.
 
-None of that removes the need for expertise. But it can make the first few steps less intimidating.
+AI can summarise a long document. A person can recognise what matters in the wider context.
 
-For me, that matters. Practical AI should not be something reserved for technical teams or people who already know exactly what to ask. It should help ordinary people become more confident with work they are already capable of understanding.
+AI can identify patterns in data. A person can decide whether those patterns make sense and what action should follow.
 
-## A thought partner, not an answer machine
+AI can draft a response to a customer. A person can recognise that the customer does not need a technically correct answer. They need reassurance, flexibility or empathy.
 
-There is another side to this, though.
+That is not a failure of automation. It is good work design.
 
-AI can make something look finished long before it is ready to trust.
+Research involving 758 Boston Consulting Group consultants helps explain why. In work led by Harvard Business School researchers, consultants using GPT-4 performed significantly better on tasks that sat within the technology's capabilities. They completed work more than 25% faster and their human-rated performance improved by more than 40%.
 
-A polished answer can be very persuasive. It can also be wrong.
+But the same research described a **jagged technological frontier**. AI can be extremely capable at one task and unexpectedly poor at another that looks very similar.
 
-Research involving 758 Boston Consulting Group consultants helps explain why. In work led by researchers at Harvard Business School, consultants using GPT-4 performed significantly better on tasks that fell within the technology's capabilities. They worked more than 25% faster and their human-rated performance improved by more than 40%.
+So the skill is not simply knowing how to use AI.
 
-But the same research introduced the idea of a **jagged technological frontier**.
+It is knowing when to trust it, when to challenge it and when the decision should stay with a person.
 
-AI can be excellent at one task and unexpectedly poor at another that looks very similar.
+## Better output often comes from a partnership
 
-That means good AI use is not simply about learning to prompt better. It is about learning where the tool is useful, where it needs supervision and where a human needs to stay firmly in control.
+One of the reasons I am interested in AI is not that it can replace thinking. It is that it can make thinking easier to start and harder to get stuck in.
 
-There is a big difference between using AI as an answer machine and using it as a thought partner.
+Instead of asking AI to make the decision, you can ask it to challenge yours.
 
-An answer machine says: here is the answer.
+What have I missed?
 
-A thought partner can be asked: what have I missed? What assumptions am I making? Give me another way of looking at this. Challenge this conclusion. Explain why this might be wrong. What would someone who disagreed with me say?
+What assumptions am I making?
 
-That is where AI becomes more interesting to me.
+What would someone who disagreed with this say?
 
-Not because it thinks for us, but because it can sometimes help us think more deliberately.
+What evidence would weaken this conclusion?
 
-## The risk of handing over too much
+Can you explain this in another way?
 
-There is a danger in all of this that deserves taking seriously.
+Used like that, AI becomes less of an answer machine and more of a second pair of eyes.
 
-If AI becomes the default place we go for every answer, every draft and every decision, we may gradually stop exercising some of the skills we still need.
+That can improve quality because the human remains responsible for the outcome while gaining another perspective, a faster first draft or a structured way into a problem.
 
-Microsoft Research surveyed 319 knowledge workers about their use of generative AI. Higher confidence in AI was associated with less reported critical-thinking effort. The researchers also found that AI can shift critical thinking towards verification, integration and oversight.
+There is also evidence that AI can help less experienced people become more capable.
 
-That shift is not necessarily bad. Checking work, integrating information and deciding whether an output is useful are real skills.
+Researchers Erik Brynjolfsson, Danielle Li and Lindsey Raymond studied 5,179 customer-support agents after the introduction of a generative AI assistant. Productivity increased by 14% on average, but novice and lower-skilled workers improved by 34%.
 
-But it does mean we need to be intentional.
+The researchers found suggestive evidence that the AI was helping spread some of the practices associated with stronger workers.
 
-If AI writes the email, creates the analysis, recommends the decision and explains why the decision is right, it becomes very easy to move from reviewing the answer to simply receiving it.
+That is important because it points to augmentation rather than simple substitution.
 
-And because generative AI can sound fluent and confident, that handover can happen almost without us noticing.
+A newer employee does not have to wait years to encounter every useful pattern for the first time. AI can help surface relevant knowledge while the work is happening, with the person still there to apply it.
 
-This is why I do not think the goal should be maximum automation.
+## What we should automate first
 
-The goal should be the right allocation of effort.
+If I were deciding where AI belongs in a business, I would start with the work that drains time without requiring much human judgement.
 
-Let AI take the parts that do not need your judgement. Let it help with the parts where another perspective is useful. But keep practising the skills that make you good at your work.
+Chasing information through inboxes.
 
-A useful question is not just, "Can AI do this?"
+Moving data between systems.
 
-It is, **"What happens to my capability if I stop doing this altogether?"**
+Reformatting the same report every month.
 
-## Some work will disappear
+Drafting routine summaries.
 
-A human-centred view of AI should not pretend there is no disruption ahead.
+Sorting, categorising and organising information.
 
-Some tasks will be automated. Some roles will change significantly. Some jobs will disappear.
+Searching through documents for something you know is in there somewhere.
 
-The World Economic Forum's *Future of Jobs Report 2025* draws on more than 1,000 employers representing over 14 million workers and expects substantial labour-market change by 2030. It also reports that many employers anticipate reducing workforce numbers where AI can automate tasks.
+Creating the first version of something that a person will review anyway.
 
-So it would be naive to assume every organisation will adopt AI primarily to make work more fulfilling.
+These are not unimportant tasks. They still need to happen.
 
-Cost reduction will be part of the picture.
+But they are often poor uses of human attention.
 
-But the same report continues to place value on capabilities such as analytical thinking, creative thinking, resilience, curiosity and leadership alongside technological skills.
+And attention is one of the things businesses rarely account for properly.
 
-That tells us something important.
+When somebody spends half an hour copying information from one place to another, the cost is not only half an hour of salary. It is also half an hour they could not spend noticing a problem, helping a colleague, understanding a customer or thinking properly about a decision.
 
-The question is not whether machines or humans are better in the abstract.
+That is where automation can create something more valuable than speed.
 
-The question is which parts of work benefit from machines, and which parts become more valuable precisely because they require a person.
+It can create capacity.
 
-## What should we actually give AI?
+## What should we do with the time we get back?
 
-I keep coming back to a simple distinction.
+This is the part that matters most to me.
 
-**Less useful AI use:** "Do this for me."
+Saving time is not the same as improving work.
 
-**Better AI use:** "Help me do this better."
+If AI saves an employee an hour and the only response is to fill that hour with another hour of low-value output, we have made the process faster without necessarily making the job better.
 
-**Best AI use:** "Take the parts that don't need me, challenge the parts that do, and leave the judgement with me."
+The better question is: what can the human now do that the system could not?
 
-If you are writing a report, AI might help organise the structure, summarise the supporting information or challenge whether the argument is clear. You should still decide what matters and what the reader needs to know.
+They can have the conversation that needs sensitivity rather than sending the fastest possible response.
 
-If you are researching a decision, AI might help map options, expose assumptions and identify questions. You still need to check the evidence and make the decision.
+They can look at a set of numbers and ask whether the story behind them makes sense.
 
-If you are learning something, AI can explain it repeatedly and in different ways. But sometimes the better prompt is not "give me the answer". It is "test whether I understand this".
+They can coach the new employee instead of just correcting the mistake.
 
-If you are automating a repetitive process, ask what you want the person to do with the time that comes back.
+They can spend longer understanding why a customer is unhappy rather than simply closing the ticket.
 
-That last question matters more than it seems.
+They can question an assumption, think through a consequence or notice when the standard process is producing the wrong result.
 
-Saving an hour is useful. Filling the reclaimed hour with another hour of low-value work is less interesting.
+They can use empathy and judgement.
 
-## More room for the parts that need us
+Those things are difficult to turn into neat productivity metrics, but they are often where the real value of a person sits.
 
-I do not want the future of work to be humans competing with AI at being machines.
+## There is a danger in handing over too much
 
-We should not measure our value by how quickly we can summarise documents, move information between systems, reformat reports or generate repetitive first drafts.
+A human-in-the-loop approach is not only about preserving jobs. It is also about preserving capability.
 
-Those are exactly the areas where technology can give us leverage.
+Microsoft Research surveyed 319 knowledge workers about their use of generative AI. Higher confidence in AI was associated with less reported critical-thinking effort. The researchers also found that the nature of critical thinking can shift towards verification, integration and oversight when AI is used.
 
-The opportunity is what comes next.
+That can be useful, but only if the verification actually happens.
 
-More time to think before making a decision.
+AI output is often polished enough to feel finished. That makes it very easy to stop questioning it.
 
-More confidence to learn something unfamiliar.
+If AI writes the analysis, proposes the decision and explains why the decision is right, a person can move from reviewing the answer to simply receiving it without really noticing the change.
 
-More space to understand a customer properly.
+That is where convenience can become dependency.
 
-More time to teach someone rather than simply correct them.
+So there are some skills we should be careful not to automate out of ourselves.
 
-More room for judgement, creativity, curiosity, empathy and craft.
+We still need to know what good looks like.
 
-And perhaps, on a very practical level, a little less of the work that leaves people exhausted without making them any better at what they do.
+We still need enough understanding to spot when something is wrong.
 
-AI will not automatically create that future. We can just as easily use it to increase output, increase monitoring, reduce headcount and make everybody work faster.
+We still need to ask whether the answer fits the situation rather than simply whether it sounds convincing.
 
-The technology does not decide what kind of workplace we build around it.
+The better AI becomes, the more important those skills become.
 
-We do.
+## Some jobs will still change
 
-Used badly, AI can distance people from their own judgement and make them dependent on answers they no longer know how to challenge.
+None of this means there will be no disruption.
 
-Used thoughtfully, it can remove some of the mechanical work, make knowledge easier to reach and give people more space for the things that genuinely require a human being.
+The World Economic Forum's *Future of Jobs Report 2025* points to significant change in the labour market by 2030 and reports that many employers expect to reduce workforce numbers where AI can automate tasks.
 
-That, to me, is the version worth building towards.
+That is uncomfortable, but it is part of the reality businesses and workers need to prepare for.
 
-Not AI that makes people less necessary.
+At the same time, employers continue to place value on capabilities such as analytical thinking, creative thinking, resilience, curiosity and leadership alongside technical skills.
 
-AI that gives us more room to do the human part properly.
+That combination makes sense to me.
+
+The future is unlikely to be purely human or purely automated.
+
+It will be a question of how well we divide the work.
+
+## A simple way to think about it
+
+Before handing a task to AI, I think there are three useful questions.
+
+**Does this task genuinely need human judgement?**
+
+If it does not, it may be a good candidate for automation.
+
+**Would AI make the human better at the task rather than simply remove them from it?**
+
+If AI can provide a first draft, another perspective, faster access to information or a useful challenge, the combination may produce better work than either would alone.
+
+**What will the person do with the capacity we create?**
+
+This one is easy to overlook.
+
+The point of saving time should not always be to squeeze more output into the same day.
+
+Sometimes the return on automation is having enough time to think properly.
+
+## AI should give us more room to be good at being human
+
+I do not think people need another argument telling them not to worry about AI.
+
+There are things worth worrying about.
+
+Jobs will change. Poorly designed automation can remove useful skills. Businesses can use AI to make work more impersonal rather than less. And a confident AI answer is not the same thing as a good one.
+
+But fear should not stop us seeing the other possibility.
+
+AI can take some of the repetitive, mechanical work that fills our days.
+
+It can help people reach knowledge faster and give less experienced employees a stronger starting point.
+
+It can challenge our thinking, help us structure ideas and give us another perspective.
+
+And when we keep people in the loop, it can improve the quality of the final result because somebody still brings context, judgement and accountability to the work.
+
+Most importantly, it can give us more time for the things we should not want to automate away.
+
+Empathy.
+
+Judgement.
+
+Curiosity.
+
+Trust.
+
+The difficult conversation.
+
+The decision where there is no perfect answer.
+
+Understanding what another person actually needs.
+
+That is the version of AI I think businesses should be aiming for.
+
+Not technology that makes humans less relevant.
+
+Technology that takes more of the mechanical work off our hands, while giving us more room to do the human part properly.
 
 ---
 
 ## Source check
 
-- Brynjolfsson, Li and Raymond, *Generative AI at Work*, NBER Working Paper 31161. Study of 5,179 customer-support agents; 14% average productivity increase and 34% increase for novice and low-skilled workers. https://www.nber.org/papers/w31161
-- Dell'Acqua et al., *Navigating the Jagged Technological Frontier*, Harvard Business School / BCG field experiment. 758 consultants; on tasks within the AI frontier, speed increased by more than 25% and human-rated performance by more than 40%. https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/
-- Lee et al., *The Impact of Generative AI on Critical Thinking*, Microsoft Research / CHI 2025. Survey of 319 knowledge workers; higher confidence in GenAI associated with less critical thinking, with cognitive effort shifting towards verification, integration and task stewardship. https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
+- Brynjolfsson, Li and Raymond, *Generative AI at Work*, NBER Working Paper 31161. Study of 5,179 customer-support agents; 14% average productivity increase and 34% increase for novice and lower-skilled workers. https://www.nber.org/papers/w31161
+- Dell'Acqua et al., *Navigating the Jagged Technological Frontier*, Harvard Business School / BCG field experiment. 758 consultants; on tasks inside the AI frontier, speed increased by more than 25% and human-rated performance by more than 40%. https://aiinstitute.hbs.edu/navigating-the-jagged-technological-frontier/
+- Lee et al., *The Impact of Generative AI on Critical Thinking*, Microsoft Research / CHI 2025. Survey of 319 knowledge workers; higher confidence in GenAI associated with less critical-thinking effort, with cognitive effort shifting towards verification, integration and task stewardship. https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/
 - World Economic Forum, *Future of Jobs Report 2025*. Perspectives from more than 1,000 employers representing over 14 million workers on expected job and skills changes through 2030. https://www.weforum.org/publications/the-future-of-jobs-report-2025/
-- Decisions, *How AI Can Make Us More Human If We Use It Wisely*. Used as thematic inspiration for the emphasis on time, creativity, accessibility, relationships and craft. No text has been reproduced. https://decisions.com/blog/how-ai-can-make-us-more-human
