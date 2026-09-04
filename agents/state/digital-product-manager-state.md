@@ -1,52 +1,44 @@
 # Digital Product Manager State
 
-**Updated:** 2 September 2026
-**Status:** EDUCATION-FIRST CONTENT STREAM ACTIVE
+**Updated:** 4 September 2026
+**Status:** EDUCATION-FIRST ARTICLE READY FOR OWNER APPROVAL
 
 ## Current priority
 
-Develop the next Ikhaya Automations educational article around the thesis that AI should make humans more capable rather than replace human judgement.
+The current Ikhaya Automations educational article, `AI Should Make Humans Better, Not Make Humans Obsolete`, has completed research, drafting, fact-checking, critique, revision and publication-readiness QA.
 
-The immediate paid-product push is paused. Do not resume building or publishing Numbers to Management Narrative, or start another Ikhaya Automations paid product, unless Michaela explicitly reauthorises that stream.
+The immediate paid-product push remains paused. Do not resume building or publishing Numbers to Management Narrative, or start another Ikhaya Automations paid product, unless Michaela explicitly reauthorises that stream.
 
 ## Latest owner direction
 
-- Michaela has explicitly stopped the current attempt to turn Ikhaya Automations into a product-sales business.
-- The intended model is primarily education and audience-building, with possible later monetisation through advertising, partnerships, customer journeys or occasional products where there is a genuine fit.
+- Ikhaya Automations is primarily an education and audience-building business, with possible later monetisation through advertising, partnerships, customer journeys or occasional products where there is genuine fit.
 - Current content theme: AI making humans better, not taking over from humans.
 - Research should precede drafting for substantive articles.
-- Claude may be used for long-form drafting after the evidence and argument are defined; ChatGPT should then fact-check, critique and edit the draft back into the Ikhaya Automations voice.
+- External publication remains an owner approval gate.
 
 ## Work completed
 
-1. Previous Numbers to Management Narrative product work reached a WordPress payment-plan gate, but that stream is now superseded by the owner's later strategic direction and is paused.
-2. Initial research for the human-centred AI article has been completed.
-3. The research brief is stored at `research/content/ai-should-make-humans-better-research-brief.md`.
-4. Recommended thesis: **AI is most valuable when it extends human capability rather than replacing human judgement.**
-5. Evidence base includes NBER research on generative AI in customer support, HBS/BCG research on the jagged technological frontier, Microsoft Research on generative AI and critical thinking, and the World Economic Forum Future of Jobs Report 2025.
-6. A Claude drafting brief has been prepared in the active owner conversation. The next external-model step requires the owner to paste that brief into Claude unless/until a direct authorised Claude workflow is available.
+1. Research brief completed and retained at `research/content/ai-should-make-humans-better-research-brief.md`.
+2. Original-source claims rechecked against NBER, Harvard Business School / BCG, Microsoft Research and the World Economic Forum.
+3. Full article drafted directly from the approved research thesis rather than waiting for an external-model handoff.
+4. Draft critically reviewed for overstatement, weak logic, generic AI prose, brand voice, unsupported certainty and source traceability.
+5. Revisions completed.
+6. Publication-ready article stored at `content/articles/ai-should-make-humans-better.md`.
+7. QA passed: UK English; no sales pitch; balanced treatment of augmentation, deskilling and displacement; research findings distinguished from Ikhaya interpretation; no invented quotations; no em dashes; source check included.
 
-## Current content direction
+## Article position
 
-The article should make a balanced case:
+Thesis: **AI is most valuable when it extends human capability rather than replacing human judgement.**
 
-- AI should remove friction, not responsibility.
-- AI can spread capability, especially to less-experienced workers.
-- AI can improve expert performance when tasks fall within its strengths.
-- Blind reliance can reduce critical-thinking effort and contribute to skill atrophy.
-- Job displacement and cost-cutting incentives are real and should not be minimised.
-- Human-centred AI is a choice about work design, not an inevitable outcome.
-- As AI improves, human judgement, context, verification, accountability, creativity and interpersonal capability become more important rather than irrelevant.
+The final draft argues that AI should remove friction rather than responsibility; can spread capability to less-experienced workers; can improve performance inside its strengths; can weaken critical-thinking effort if relied on uncritically; and will genuinely reshape and displace some work. The conclusion is deliberately grounded: the key human skill may be knowing what not to hand over.
 
-Working title: `AI Should Make Humans Better, Not Make Humans Obsolete`.
+## Owner approval gate
 
-## Owner action / approval gate
+A meaningful completed deliverable has now reached owner approval.
 
-No publication action is authorised yet.
+Michaela should review the article at `content/articles/ai-should-make-humans-better.md` and decide whether it is approved for external publication. No external publication action is authorised before that approval.
 
-If the article is drafted in Claude, the owner must either provide the resulting draft back to ChatGPT or make it available through the shared repository. Once the draft is accessible, the Product Manager may automatically continue through fact-checking, critique, revision, brand-voice editing and publication-readiness QA without asking for approval between those routine stages.
-
-External publication remains an owner approval gate.
+If approved, the Product Manager may prepare/finalise channel-specific publication metadata and proceed only within whatever publication permissions are explicitly available. If changes are requested, revise and rerun QA automatically before returning for approval where materially necessary.
 
 ## Paused product state retained for reference
 
@@ -61,13 +53,6 @@ The prior WordPress product draft remains unpublished:
 
 Do not progress this page under the current education-first direction.
 
-## Next automatic action
+## Next action
 
-When an article draft becomes available in the repository or connected context, inspect the latest research brief first, then:
-
-1. fact-check all material claims against original sources;
-2. identify overstatement, weak logic and generic AI prose;
-3. revise into the approved Ikhaya Automations voice;
-4. run a second critical QA pass;
-5. prepare publication copy/metadata if the article passes;
-6. stop at owner publication approval.
+Wait at the external-publication approval gate for the completed article. Do not restart paid-product work.
