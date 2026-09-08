@@ -19,6 +19,8 @@ Run, Render, Railway, or Fly.io. Configure these as secrets/environment variable
 - `GEMINI_API_KEY`: the private Gemini key.
 - `ACTION_API_KEY`: a different, long random value used only between ChatGPT and this
   service.
+- `PUBLIC_BASE_URL`: the service's public HTTPS origin when the host does not supply
+  `RENDER_EXTERNAL_URL` automatically. Render users do not need to set this.
 
 For the initial personal Ikhaya setup, configure one running instance and a persistent
 volume mounted at `/data`. Do not make the Action unauthenticated. Confirm that
@@ -34,6 +36,11 @@ ChatGPT account through this route.
 In ChatGPT's GPT editor, add a new Action and import:
 
 `https://YOUR-DOMAIN/openapi.json`
+
+The imported schema must show `create_analysis` and `get_analysis` as available actions.
+If ChatGPT reports that `servers` has no valid URL, confirm that the host supplies
+`RENDER_EXTERNAL_URL`, or set `PUBLIC_BASE_URL` to the service's HTTPS origin and
+redeploy.
 
 Choose API-key authentication, select **Custom header**, use `X-Action-Key` as the header
 name, and paste the same `ACTION_API_KEY` value stored by the host. Do not use the Gemini
