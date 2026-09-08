@@ -280,8 +280,18 @@ def analyze_video(
 ) -> str:
     """Analyze a source and return markdown; shared by the CLI and web service."""
     resolved_key = key or api_key()
+    parsed_clip = parse_clip(clip)
+    if is_youtube(source) and (parsed_clip or fps is not None):
+        return analyze_youtube_clip(
+            source,
+            prompt=prompt,
+            clip=parsed_clip,
+            fps=fps,
+            model=model,
+            key=resolved_key,
+        )
     video = video_input(source, resolved_key)
-    add_processing(video, parse_clip(clip), fps)
+    add_processing(video, parsed_clip, fps)
     payload = {
         "model": model,
         "input": [video, {"type": "text", "text": prompt}],
@@ -321,6 +331,45 @@ def extract_text(response: dict[str, Any]) -> str:
         if isinstance(response.get(key), str) and response[key].strip():
             return response[key].strip()
     fail(f"Unexpected Gemini response shape: {json.dumps(response)[:800]}")
+
+
+def extract_generate_content_text(response: dict[str, Any]) -> str:
+    chunks: list[str] = []
+    for candidate in response.get("candidates", []):
+        for part in candidate.get("content", {}).get("parts", []):
+            if isinstance(part.get("text"), str):
+                chunks.append(part["text"])
+    if chunks:
+        return "\n".join(chunks).strip()
+    fail(f"Unexpected Gemini response shape: {json.dumps(response)[:800]}")
+
+
+def analyze_youtube_clip(
+    source: str,
+    *,
+    prompt: str,
+    clip: tuple[float, float] | None,
+    fps: float | None,
+    model: str,
+    key: str,
+) -> str:
+    """Use GenerateContent videoMetadata for YouTube clipping/custom FPS."""
+    metadata: dict[str, Any] = {}
+    if clip:
+        metadata["startOffset"] = f"{clip[0]}s"
+        metadata["endOffset"] = f"{clip[1]}s"
+    if fps is not None:
+        metadata["fps"] = fps
+    part: dict[str, Any] = {"fileData": {"fileUri": source, "mimeType": "video/*"}}
+    if metadata:
+        part["videoMetadata"] = metadata
+    payload = {
+        "contents": [{"role": "user", "parts": [part, {"text": prompt}]}],
+    }
+    url = f"{API_ROOT}/v1beta/models/{urllib.parse.quote(model, safe='')}:generateContent"
+    info(f"Analyzing YouTube clip with {model} video metadata.")
+    response, _ = json_request(url, key=key, payload=payload)
+    return extract_generate_content_text(response)
 
 
 def main() -> None:

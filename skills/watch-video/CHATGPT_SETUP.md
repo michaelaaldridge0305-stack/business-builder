@@ -63,6 +63,10 @@ Test first with a short public YouTube video, then with a small MP4 attachment. 
 analysis can use `clip: "0:00-0:05"` and `fps: 10`. Use the default sampling for a full
 long-form tutorial.
 
+YouTube requests that specify a clip or custom FPS use Gemini's `videoMetadata`
+interface. Whole-video requests and uploaded files continue through the Interactions
+API.
+
 ## One-time user steps
 
 1. Deploy the container and attach persistent `/data` storage.
