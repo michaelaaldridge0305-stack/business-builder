@@ -27,11 +27,13 @@ MAX_UPLOAD_BYTES = int(os.getenv("MAX_UPLOAD_BYTES", str(512 * 1024 * 1024)))
 ALLOWED_VIDEO_SUFFIXES = {".mp4", ".mov", ".mpeg", ".mpg", ".avi", ".webm", ".flv", ".wmv", ".3gp", ".3gpp"}
 executor = ThreadPoolExecutor(max_workers=int(os.getenv("WATCH_VIDEO_WORKERS", "2")))
 db_lock = threading.Lock()
+public_base_url = os.getenv("PUBLIC_BASE_URL") or os.getenv("RENDER_EXTERNAL_URL")
 
 app = FastAPI(
     title="Ikhaya Watch Video",
     version="1.0.0",
     description="Analyze public YouTube URLs or videos uploaded to ChatGPT with Gemini.",
+    servers=[{"url": public_base_url.rstrip("/")}] if public_base_url else None,
 )
 
 
