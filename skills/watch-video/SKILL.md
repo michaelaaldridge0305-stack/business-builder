@@ -1,7 +1,6 @@
 ---
 name: watch-video
 description: Analyze a public YouTube video or a local video file using Gemini's native video understanding. Use this when the user asks what happens in a video, why a video or hook works, how the visuals/editing/captions are structured, what marketing lessons can be extracted, or how to adapt the underlying structure for Ikhaya Designs or Ikhaya Automations without copying the creator.
-argument-hint: <youtube-url-or-file-path> [--clip 0:00-0:05] [--fps 8] [--prompt "..."]
 ---
 
 # Watch Video
@@ -48,6 +47,17 @@ python skills/watch-video/watch_video.py "<source>" [flags]
 ```
 
 The environment must contain `GEMINI_API_KEY`.
+
+## Use from ChatGPT
+
+The `service.py` wrapper exposes this skill as an authenticated Custom GPT Action. It
+accepts either a public YouTube URL or one video attached to the ChatGPT message, starts
+the Gemini analysis asynchronously, and lets ChatGPT poll for the completed Markdown.
+
+Deployment and one-time ChatGPT setup are in [CHATGPT_SETUP.md](CHATGPT_SETUP.md).
+The Gemini key belongs only in the hosting provider's secret settings. The separate
+Action key belongs in both the host and ChatGPT's Action authentication settings; neither
+secret belongs in this repository or in a conversation.
 
 ## Accuracy rules
 

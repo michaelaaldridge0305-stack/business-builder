@@ -269,6 +269,28 @@ def video_input(source: str, key: str) -> dict[str, Any]:
     return {"type": "video", "uri": uri, "mime_type": uploaded_mime}
 
 
+def analyze_video(
+    source: str,
+    *,
+    prompt: str = DEFAULT_PROMPT,
+    clip: str | None = None,
+    fps: float | None = None,
+    model: str = DEFAULT_MODEL,
+    key: str | None = None,
+) -> str:
+    """Analyze a source and return markdown; shared by the CLI and web service."""
+    resolved_key = key or api_key()
+    video = video_input(source, resolved_key)
+    add_processing(video, parse_clip(clip), fps)
+    payload = {
+        "model": model,
+        "input": [video, {"type": "text", "text": prompt}],
+    }
+    info(f"Analyzing with {model}.")
+    response, _ = json_request(INTERACTIONS_URL, key=resolved_key, payload=payload)
+    return extract_text(response)
+
+
 def add_processing(video: dict[str, Any], clip: tuple[float, float] | None, fps: float | None) -> None:
     if fps is not None and not (0 < fps <= 24):
         fail("--fps must be greater than 0 and no more than 24.")
@@ -310,22 +332,15 @@ def main() -> None:
     parser.add_argument("--model", default=DEFAULT_MODEL, help=f"Gemini model (default: {DEFAULT_MODEL})")
     args = parser.parse_args()
 
-    key = api_key()
-    clip = parse_clip(args.clip)
-    video = video_input(args.source, key)
-    add_processing(video, clip, args.fps)
-
-    payload = {
-        "model": args.model,
-        "input": [
-            video,
-            {"type": "text", "text": args.prompt},
-        ],
-    }
-
-    info(f"Analyzing with {args.model}.")
-    response, _ = json_request(INTERACTIONS_URL, key=key, payload=payload)
-    print(extract_text(response))
+    print(
+        analyze_video(
+            args.source,
+            prompt=args.prompt,
+            clip=args.clip,
+            fps=args.fps,
+            model=args.model,
+        )
+    )
 
 
 if __name__ == "__main__":
