@@ -1,6 +1,6 @@
-# Proposed Product Specification
+# Product Specification
 
-**Status:** PROPOSED, NOT AUTHORISED FOR BUILD UNTIL OWNER APPROVES VALIDATION GATE
+**Status:** BUILD AUTHORISED BY OWNER — 10 September 2026
 **Based on validation report dated:** 9 September 2026
 
 ## Product concept
@@ -96,3 +96,7 @@ The Etsy hero image, if later authorised, must show the working system rather th
 Provisional price test range from validation: £9-£15. Final price is not approved by this specification.
 
 The product should be abandoned or substantially revised if build QA cannot demonstrate paid value beyond free checklists, particularly the contact/follow-up/document/outstanding-action control layer.
+
+## Authorisation record
+
+Owner approval received 10 September 2026. The Product Manager is authorised to proceed through routine build, critique, revision and QA without intermediate owner approval. External publication, final pricing, spending, or material scope changes remain subject to the operating charter's escalation conditions.
