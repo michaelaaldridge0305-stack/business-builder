@@ -1,7 +1,17 @@
 # Digital Product Manager State
 
-**Updated:** 8 September 2026
+**Updated:** 10 September 2026
 **Status:** ACTIVE ACROSS BOTH IKHAYA BUSINESSES
+
+## Primary execution source
+
+The Product Manager now operates through:
+
+`operating-system/PRODUCT_MANAGER_CONTROL_CENTRE.md`
+
+Read that control centre at the beginning of every Product Manager run. It contains the live commercial queue, GREEN / AMBER / RED authority model, definition of complete, execution loop, reporting format and first autonomy test.
+
+This state file preserves strategic constraints. If the control centre and this file differ on current task priority, use the newer explicit owner direction and then the control centre. Do not override the strategic business constraints below without explicit owner direction.
 
 ## Operating scope
 
@@ -17,17 +27,21 @@ Ikhaya Designs GB creates practical digital tools that help people move **from c
 
 ## Current priority order
 
-### Priority 1: optimise existing Etsy listings and Pinterest traffic
+### Priority 1: Christmas Gift Organiser commercial completion
 
-Continue systematic Etsy listing audits using the SmallBizSis-derived framework and the standard established with the Notion Guide. Prioritise listings with stronger existing demand signals where data is available.
+The revamped Christmas Gift Organiser is the first autonomy test for the Product Manager. Prioritise remaining distribution and conversion work over unnecessary further rebuilding. Inspect the latest evidence before acting because the product, Etsy listing and imagery have changed materially since earlier state updates.
+
+Progress all GREEN work autonomously: audit, research, copy/asset preparation, distribution planning, QA, revision and durable documentation. Escalate only consequential external publication/account actions where approval is required.
+
+### Priority 2: optimise existing Etsy listings and Pinterest traffic
+
+Continue systematic Etsy listing audits using the SmallBizSis-derived framework and the standard established with the Notion Guide. Prioritise listings with stronger demand signals where data is available.
 
 Assess thumbnail/mobile crop, first-image clarity, image-set selling sequence, Visibility/Clarity/Desire/Trust/Ease, solution-led language, search relevance, description, tags, differentiation, proof of what the buyer receives, usefulness, brand consistency and visual QA.
 
-For suitable listings, prepare matching Pinterest traffic work. Treat Pinterest as a visual search/discovery engine and optimise for qualified impressions, outbound clicks, outbound CTR, Etsy visits, favourites/purchase intent, orders and revenue rather than vanity metrics. Use multiple problem-aware, solution-led, outcome-led, search-led, educational, demonstration and buyer-intent creative angles where appropriate.
+For suitable listings, prepare matching Pinterest traffic work. Treat Pinterest as a visual search/discovery engine and optimise for qualified impressions, outbound clicks, outbound CTR, Etsy visits, favourites/purchase intent, orders and revenue rather than vanity metrics.
 
-Do not make consequential external Etsy/Pinterest changes without applicable owner approval, but continue internal audit, rewriting, asset planning, research, critique and QA autonomously.
-
-### Priority 2: UK bereavement administration guide research and validation
+### Priority 3: UK bereavement administration guide research and validation
 
 Michaela has explicitly authorised the **research and commercial validation** of a UK-specific practical guide/checklist/system for what to do when someone dies.
 
@@ -35,21 +49,17 @@ The controlling brief is:
 
 `research/ikhaya-designs/bereavement-guide/research-and-validation-brief.md`
 
-This is now an active Product Manager workstream. Progress it autonomously through:
+Progress autonomously through:
 
 `PROCESS RESEARCH -> USER PROBLEM RESEARCH -> COMPETITOR/SUBSTITUTE RESEARCH -> SEARCH/DISCOVERABILITY RESEARCH -> COMMERCIAL ASSESSMENT -> CRITICAL REVIEW -> VALIDATION REPORT`
 
-Research should establish the real administrative journey, jurisdiction differences, what users struggle with, what free authoritative guidance already solves, what paid competitors offer, search/purchase intent, Etsy/Pinterest fit, differentiation, likely format, maintenance burden and legal/reputational risks.
+Do not build the finished product, create final listing assets, set a final price or publish anything until the validation gate passes. The validation report must recommend **BUILD**, **MODIFY / RESEARCH FURTHER**, or **DO NOT BUILD** with evidence.
 
-The central hypothesis to test is whether the strongest paid value is a calm **administration system rather than an ebook**: helping someone understand what needs doing, what can wait, what information is needed, who has been contacted and what remains unfinished while authoritative sources remain the source for legal/procedural rules.
+Free authoritative guidance must be treated as a serious substitute. The product must add genuine organisational value beyond repackaging free information.
 
-Do not build the finished product, create final listing assets, set a final price or publish anything until the validation gate passes. A completed validation report should recommend **BUILD**, **MODIFY / RESEARCH FURTHER**, or **DO NOT BUILD**, with evidence.
+### Priority 4: continue Ikhaya Automations education work
 
-The existence of free GOV.UK, devolved-government, Citizens Advice and charity guidance must be treated as a serious substitute rather than ignored. The product must add genuine organisational value beyond repackaging free information.
-
-### Priority 3: continue Ikhaya Automations education work
-
-Continue research-led education and audience building when higher-priority Designs work is not blocked or when a clearly valuable content opportunity exists. The old `AI Should Make Humans Better, Not Make Humans Obsolete` approval gate is not a reason to sit idle.
+Continue research-led education and audience building when higher-priority Designs work is not actionable or when a clearly valuable content opportunity exists.
 
 ## Ikhaya Designs GB operating principles
 
@@ -65,17 +75,10 @@ Continue research-led education and audience building when higher-priority Desig
 
 ## Management by exception
 
-Continue authorised internal work without repeatedly asking Michaela to continue. Escalate only for genuine owner decisions, permissions, publication approvals, spending, strategic forks, consequential external actions, missing owner-only facts, material risk, or when the completed bereavement validation report reaches its BUILD / MODIFY / DO NOT BUILD decision gate.
+Continue authorised internal work without repeatedly asking Michaela to continue. Escalate only for genuine owner decisions, permissions, publication approvals, spending, strategic forks, consequential external actions, missing owner-only facts, material risk, or a formal validation decision gate.
 
 When work can be researched, drafted, critiqued, revised or QA-checked internally, do it automatically and retain durable outputs in the repository.
 
-## Next autonomous actions
+## Next autonomous action
 
-On the next run:
-
-1. Inspect the repository for newer owner direction before relying on this state.
-2. Continue the highest-value authorised Etsy listing optimisation/Pinterest work that can be completed with available data.
-3. Begin or continue the bereavement-guide research workstream from its controlling brief. Do not wait for another owner prompt between its routine research stages.
-4. Retain substantive bereavement research under `research/ikhaya-designs/bereavement-guide/`.
-5. Critically review evidence before recommending a product build.
-6. Do not restart the paused Ikhaya Automations paid-product stream.
+Read `operating-system/PRODUCT_MANAGER_CONTROL_CENTRE.md` and execute its highest-value unblocked GREEN action. Do not wait for another owner prompt between routine stages.
