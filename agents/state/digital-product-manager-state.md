@@ -1,15 +1,15 @@
 # Digital Product Manager State
 
-**Updated:** 10 September 2026
+**Updated:** 11 September 2026
 **Status:** ACTIVE ACROSS BOTH IKHAYA BUSINESSES
 
 ## Primary execution source
 
-The Product Manager now operates through:
+The Product Manager operates through:
 
 `operating-system/PRODUCT_MANAGER_CONTROL_CENTRE.md`
 
-Read that control centre at the beginning of every Product Manager run. It contains the live commercial queue, GREEN / AMBER / RED authority model, definition of complete, execution loop, reporting format and first autonomy test.
+Read that control centre at the beginning of every Product Manager run. It contains the live commercial queue, GREEN / AMBER / RED authority model, definition of complete, execution loop, reporting format and autonomy test.
 
 This state file preserves strategic constraints. If the control centre and this file differ on current task priority, use the newer explicit owner direction and then the control centre. Do not override the strategic business constraints below without explicit owner direction.
 
@@ -29,9 +29,20 @@ Ikhaya Designs GB creates practical digital tools that help people move **from c
 
 ### Priority 1: Christmas Gift Organiser commercial completion
 
-The revamped Christmas Gift Organiser is the first autonomy test for the Product Manager. Prioritise remaining distribution and conversion work over unnecessary further rebuilding. Inspect the latest evidence before acting because the product, Etsy listing and imagery have changed materially since earlier state updates.
+**Current status:** INTERNAL DISTRIBUTION / CONVERSION PACKAGE COMPLETE; AMBER VISUAL PRODUCTION / PUBLICATION GATE.
 
-Progress all GREEN work autonomously: audit, research, copy/asset preparation, distribution planning, QA, revision and durable documentation. Escalate only consequential external publication/account actions where approval is required.
+The revamped Christmas Gift Organiser remains the first autonomy test. Product rebuilding is not the current bottleneck.
+
+On 11 September 2026 the Product Manager:
+
+- checked current Etsy search evidence and confirmed the listing is live at £4.79 in a crowded Google Sheets Christmas-planner field;
+- audited the existing three-page Canva Pinterest design and found its generic `Stay Calm & Organized This Christmas / Track gifts, budget, and countdown all in one` message insufficiently differentiated;
+- built and QA-passed a distribution/conversion package containing eight Pinterest concepts, exact titles/descriptions/CTAs, keyword families, a two-wave distribution sequence, conversion consistency checks and a short-form Reel concept using the owner-approved calm “tool has done its job” scenario;
+- stored the durable package at `marketing/ikhaya-designs/christmas-gift-organiser/distribution-conversion-pack.md`.
+
+**Recommended first wave:** Pins 1–5 plus the Reel. Do not use paid Pinterest advertising yet. Test organic qualified traffic first.
+
+**Remaining owner gate:** visual production and external publishing require the applicable Canva/Pinterest/Instagram interactive approval/account action. Do not request further product or copy strategy work unless new evidence identifies a defect.
 
 ### Priority 2: optimise existing Etsy listings and Pinterest traffic
 
@@ -41,21 +52,13 @@ Assess thumbnail/mobile crop, first-image clarity, image-set selling sequence, V
 
 For suitable listings, prepare matching Pinterest traffic work. Treat Pinterest as a visual search/discovery engine and optimise for qualified impressions, outbound clicks, outbound CTR, Etsy visits, favourites/purchase intent, orders and revenue rather than vanity metrics.
 
-### Priority 3: UK bereavement administration guide research and validation
+### Priority 3: England & Wales bereavement administration organiser
 
-Michaela has explicitly authorised the **research and commercial validation** of a UK-specific practical guide/checklist/system for what to do when someone dies.
+Research and commercial validation have completed and the narrowed England & Wales v1 build was explicitly approved by Michaela on 10 September 2026.
 
-The controlling brief is:
+The research/validation and authorised build work are on `codex/bereavement-validation`. Do not let this displace the time-sensitive Christmas distribution work while the Christmas publication gate is active.
 
-`research/ikhaya-designs/bereavement-guide/research-and-validation-brief.md`
-
-Progress autonomously through:
-
-`PROCESS RESEARCH -> USER PROBLEM RESEARCH -> COMPETITOR/SUBSTITUTE RESEARCH -> SEARCH/DISCOVERABILITY RESEARCH -> COMMERCIAL ASSESSMENT -> CRITICAL REVIEW -> VALIDATION REPORT`
-
-Do not build the finished product, create final listing assets, set a final price or publish anything until the validation gate passes. The validation report must recommend **BUILD**, **MODIFY / RESEARCH FURTHER**, or **DO NOT BUILD** with evidence.
-
-Free authoritative guidance must be treated as a serious substitute. The product must add genuine organisational value beyond repackaging free information.
+Continue the bereavement product through authorised build, critique, revision and QA when higher-priority Christmas/existing-listing work is not executable. External publication, final pricing, material new spending and material scope changes remain escalation gates.
 
 ### Priority 4: continue Ikhaya Automations education work
 
@@ -81,4 +84,6 @@ When work can be researched, drafted, critiqued, revised or QA-checked internall
 
 ## Next autonomous action
 
-Read `operating-system/PRODUCT_MANAGER_CONTROL_CENTRE.md` and execute its highest-value unblocked GREEN action. Do not wait for another owner prompt between routine stages.
+For the Christmas Gift Organiser, the next step is the AMBER visual-production/publication gate for the QA-passed first wave. Once that gate is resolved, publish/schedule the approved assets where authorised, then record Pinterest/Etsy performance evidence and optimise by outbound clicks and downstream Etsy intent signals.
+
+If the Christmas gate is waiting on owner action and another Product Manager run has executable GREEN capacity, select the highest-value existing Etsy listing optimisation task rather than creating a speculative new product.
