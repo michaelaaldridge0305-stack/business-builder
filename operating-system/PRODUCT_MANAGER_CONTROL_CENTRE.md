@@ -4,6 +4,7 @@
 **Operator:** Ikhaya Digital Product Manager
 **Status:** ACTIVE
 **Last reset:** 10 September 2026
+**Last material update:** 11 September 2026
 
 ## Purpose
 
@@ -104,19 +105,20 @@ If QA fails and the defect is within GREEN authority, fix it automatically and r
 
 **Business:** Ikhaya Designs GB  
 **Commercial reason:** Existing live seasonal product. September timing makes distribution more urgent than non-seasonal new-product building. Work already invested should now be converted into traffic and sales opportunity.  
-**Current known state:** Product has been substantially revamped; Google Sheets product and Etsy listing/image work have recently been through further QA; Pinterest creative/distribution and a short-form video/reel are active areas of work.  
-**Objective:** Ensure the finished product has a coherent, commercially effective Etsy-to-Pinterest/Instagram distribution package rather than continuing unnecessary product rebuilding.  
-**Authority:** GREEN for audit/research/asset preparation/QA; AMBER for consequential external publishing where approval is required.  
-**Next actions:**
-1. Inspect latest repository evidence and available current listing/asset information before assuming older work is current.
-2. Identify unfinished distribution assets or conversion defects.
-3. Prioritise high-intent Pinterest assets and the approved aesthetic direction that demonstrates real product value.
-4. Prepare/fix assets and copy that can be completed internally.
-5. QA for brand fit, mobile readability, buyer clarity, search intent and destination-message match.
-6. Escalate only the actual publication/account action if required.
-7. Record completed distribution work and remaining gap.
+**Status:** INTERNAL PACKAGE COMPLETE; AMBER VISUAL PRODUCTION / EXTERNAL DISTRIBUTION GATE.  
+**Current evidence:** The live Etsy search on 11 September surfaced the Ikhaya listing at £4.79 within a crowded Google Sheets Christmas-planner set ranging roughly from £0.99 to £11.99. The existing three-page Canva Pinterest design was audited and found too generic to differentiate the six-tab organiser.  
+**Completed package:** `marketing/ikhaya-designs/christmas-gift-organiser/distribution-conversion-pack.md`  
+**Objective:** Convert the finished product into qualified Etsy traffic and sales opportunity rather than rebuilding it.  
+**Authority:** GREEN for audit/research/asset preparation/QA; AMBER for Canva interactive approval and consequential external publishing.  
+**QA result:** PASS. Eight Pinterest concepts, exact copy/CTAs/keywords, a two-wave organic distribution plan, Etsy conversion consistency checks and a calm scenario-led Reel concept have passed CREATE -> CRITIQUE -> FIX -> RE-CHECK.  
+**Recommended first wave:** Pins 1–5 plus the Reel. No paid advertising at this stage.  
+**Remaining actions:**
+1. Resolve the AMBER visual-production/publication gate.
+2. Produce the approved visuals using actual product screenshots and the established calm Ikhaya aesthetic.
+3. Publish/schedule only after applicable approval.
+4. Record outbound clicks and downstream Etsy signals, then iterate by evidence.
 
-**Stop condition:** Distribution package is complete or remaining work requires an AMBER/RED action.
+**Stop condition:** Current GREEN internal work is complete. Remaining Christmas work requires the AMBER visual-production/publication action or later performance evidence.
 
 ### NEXT: Systematic existing Etsy listing optimisation
 
@@ -126,15 +128,13 @@ If QA fails and the defect is within GREEN authority, fix it automatically and r
 **Method:** SmallBizSis-derived Visibility / Clarity / Desire / Trust / Ease framework plus current Ikhaya brand and product-value standards.  
 **Output:** Audited listing, prioritised fixes, revised copy/image-set plan/assets where possible, QA result, publication-ready package.
 
-### NEXT: UK bereavement administration product validation
+### NEXT: England & Wales bereavement administration organiser
 
 **Business:** Ikhaya Designs GB  
-**Status:** Research and validation authorised; build not yet authorised.  
-**Controlling brief:** `research/ikhaya-designs/bereavement-guide/research-and-validation-brief.md`  
-**Hypothesis:** Paid value may come from a calm administration system that helps a bereaved person understand what needs doing, what can wait, what information is needed, who has been contacted and what remains unfinished, while authoritative sources remain the source for legal/procedural rules.  
-**Required sequence:** `PROCESS RESEARCH -> USER PROBLEM -> COMPETITORS/SUBSTITUTES -> SEARCH/DISCOVERABILITY -> COMMERCIAL ASSESSMENT -> CRITICAL REVIEW -> VALIDATION REPORT`  
-**Decision gate:** BUILD / MODIFY-RESEARCH FURTHER / DO NOT BUILD.  
-**Constraint:** Do not create the finished product, final price or listing before the validation gate.
+**Status:** Narrowed v1 build authorised by Michaela on 10 September 2026 after completed research and validation.  
+**Working branch:** `codex/bereavement-validation`  
+**Product direction:** A calm England & Wales administration control system focused on staged actions, document control, contact/follow-up tracking and outstanding actions rather than a generic bereavement checklist.  
+**Constraint:** Do not let non-seasonal build work displace the time-sensitive Christmas distribution gate. Final pricing, external publication, spending and material scope changes remain escalation points.
 
 ### LATER: Ikhaya Automations education and audience growth
 
@@ -180,6 +180,8 @@ Only a genuine AMBER/RED decision or required manual action. Write `Nothing` whe
 
 The Product Manager passes the first autonomy test when it can take the Christmas Gift Organiser from its current state through the highest-value remaining internal distribution/conversion work, QA the result, record what it completed and surface only genuine publication/account actions to Michaela.
 
+**First autonomy test result as of 11 September 2026:** INTERNAL GREEN PHASE PASSED. The distribution/conversion package has been created, critiqued, fixed, re-checked, stored and recorded. The next step is an AMBER visual-production/publication gate rather than more product rebuilding.
+
 The wider system succeeds when Michaela manages exceptions rather than repeatedly directing routine next steps.
 
 ## Execution log
@@ -187,3 +189,4 @@ The wider system succeeds when Michaela manages exceptions rather than repeatedl
 | Date | Workstream | Action | Result | Owner action |
 |---|---|---|---|---|
 | 2026-09-10 | Product Manager OS | Created execution control centre and authority model | Active. Christmas Gift Organiser set as first autonomy test. | None |
+| 2026-09-11 | Christmas Gift Organiser | Audited live Etsy search, existing Canva Pin, Pinterest guidance and current product proposition; built distribution/conversion package; ran full QA loop | PASS. Eight Pin concepts + Reel + distribution sequence stored in repository. Existing generic Canva Pin rejected unchanged. | Approve/enable first-wave visual production and external distribution |
