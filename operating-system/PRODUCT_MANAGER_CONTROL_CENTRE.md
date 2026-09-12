@@ -4,7 +4,7 @@
 **Operator:** Ikhaya Digital Product Manager
 **Status:** ACTIVE
 **Last reset:** 10 September 2026
-**Last material update:** 11 September 2026
+**Last material update:** 12 September 2026
 
 ## Purpose
 
@@ -128,6 +128,24 @@ If QA fails and the defect is within GREEN authority, fix it automatically and r
 **Method:** SmallBizSis-derived Visibility / Clarity / Desire / Trust / Ease framework plus current Ikhaya brand and product-value standards.  
 **Output:** Audited listing, prioritised fixes, revised copy/image-set plan/assets where possible, QA result, publication-ready package.
 
+**12 September progress:** With Christmas blocked at its AMBER gate, the Product Manager selected the live 13 Week Cash Flow Forecast as the next commercially strong GREEN task. Current Etsy search for the exact product language surfaced the Ikhaya listing near the top at £21.59. The listing already carries the core proposition in its live title, so unnecessary listing rebuilding was rejected. Instead, a full organic Pinterest distribution package was created and QA-passed at `marketing/ikhaya-designs/13-week-cash-flow-forecast/pinterest-distribution-pack.md`.
+
+**13 Week Cash Flow package:**
+- eight distinct Pin concepts across outcome, problem, runway, accessibility, education, workflow, product-proof and calm-outcome angles;
+- exact Pin titles, descriptions and CTAs;
+- keyword/search-intent families;
+- two-wave organic rollout;
+- short-form video/Reel concept;
+- Etsy conversion consistency check;
+- explicit controls against unsupported automation, scenario or financial-advice claims;
+- mandatory use of actual workbook screenshots in product-led creative.
+
+**QA:** PASS after CREATE -> CRITIQUE -> FIX -> RE-CHECK.  
+**Remaining gate:** external visual production/posting is AMBER.  
+**Commercial rationale:** higher unit value and strong exact-search relevance justify distribution testing before further product rebuilding.
+
+Continue selecting another existing listing only where material GREEN conversion/distribution work remains and evidence supports it. Do not churn already-optimised listings for activity's sake.
+
 ### NEXT: England & Wales bereavement administration organiser
 
 **Business:** Ikhaya Designs GB  
@@ -190,3 +208,4 @@ The wider system succeeds when Michaela manages exceptions rather than repeatedl
 |---|---|---|---|---|
 | 2026-09-10 | Product Manager OS | Created execution control centre and authority model | Active. Christmas Gift Organiser set as first autonomy test. | None |
 | 2026-09-11 | Christmas Gift Organiser | Audited live Etsy search, existing Canva Pin, Pinterest guidance and current product proposition; built distribution/conversion package; ran full QA loop | PASS. Eight Pin concepts + Reel + distribution sequence stored in repository. Existing generic Canva Pin rejected unchanged. | Approve/enable first-wave visual production and external distribution |
+| 2026-09-12 | 13 Week Cash Flow Forecast | Used current Etsy search and Pinterest guidance; created 8-Pin + Reel organic distribution package; critiqued unsupported-claim and generic-creative risks; fixed and re-checked | PASS. Distribution package stored in repository. Existing live title supports the intended traffic proposition, so no unnecessary listing rewrite was performed. | Approve/enable visual production and external distribution when ready |
