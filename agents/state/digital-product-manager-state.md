@@ -1,6 +1,6 @@
 # Digital Product Manager State
 
-**Updated:** 11 September 2026
+**Updated:** 12 September 2026
 **Status:** ACTIVE ACROSS BOTH IKHAYA BUSINESSES
 
 ## Primary execution source
@@ -52,6 +52,8 @@ Assess thumbnail/mobile crop, first-image clarity, image-set selling sequence, V
 
 For suitable listings, prepare matching Pinterest traffic work. Treat Pinterest as a visual search/discovery engine and optimise for qualified impressions, outbound clicks, outbound CTR, Etsy visits, favourites/purchase intent, orders and revenue rather than vanity metrics.
 
+**12 September 2026 progress:** Because the Christmas workstream is waiting at its AMBER external-production gate, the Product Manager selected the live 13 Week Cash Flow Forecast as the next commercially strong GREEN task. Current Etsy search for the exact product language surfaced the Ikhaya listing near the top at £21.59 in a specialist market with materially higher order value than the Christmas organiser. A full 8-Pin + Reel organic distribution package has been created, critiqued, fixed and re-checked at `marketing/ikhaya-designs/13-week-cash-flow-forecast/pinterest-distribution-pack.md`. The package deliberately avoids unsupported automation/scenario claims and requires real workbook screenshots in product-led creative. Internal QA: PASS. External visual production/posting remains AMBER.
+
 ### Priority 3: England & Wales bereavement administration organiser
 
 Research and commercial validation have completed and the narrowed England & Wales v1 build was explicitly approved by Michaela on 10 September 2026.
@@ -84,6 +86,6 @@ When work can be researched, drafted, critiqued, revised or QA-checked internall
 
 ## Next autonomous action
 
-For the Christmas Gift Organiser, the next step is the AMBER visual-production/publication gate for the QA-passed first wave. Once that gate is resolved, publish/schedule the approved assets where authorised, then record Pinterest/Etsy performance evidence and optimise by outbound clicks and downstream Etsy intent signals.
+The Christmas Gift Organiser remains the highest-priority seasonal workstream, but its GREEN internal package is complete and it is waiting on the AMBER visual-production/publication gate. The 13 Week Cash Flow Forecast now also has a QA-passed internal Pinterest distribution package ready for visual production when authorised.
 
-If the Christmas gate is waiting on owner action and another Product Manager run has executable GREEN capacity, select the highest-value existing Etsy listing optimisation task rather than creating a speculative new product.
+While those gates remain unresolved, continue selecting the highest-value existing Etsy listing that still has genuine conversion/distribution work available before returning to non-seasonal new-product building. Do not create additional copy strategy for a listing whose current package has already passed unless new evidence identifies a defect.
