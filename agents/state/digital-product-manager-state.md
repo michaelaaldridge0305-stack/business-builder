@@ -1,6 +1,6 @@
 # Digital Product Manager State
 
-**Updated:** 12 September 2026
+**Updated:** 13 September 2026
 **Status:** ACTIVE ACROSS BOTH IKHAYA BUSINESSES
 
 ## Primary execution source
@@ -29,17 +29,24 @@ Ikhaya Designs GB creates practical digital tools that help people move **from c
 
 ### Priority 1: Christmas Gift Organiser commercial completion
 
-**Current status:** OWNER APPROVED FIRST-WAVE VISUAL PRODUCTION ON 12 SEPTEMBER 2026; VISUAL GENERATION IN PROGRESS. EXTERNAL PUBLICATION REMAINS SUBJECT TO APPLICABLE APPROVAL/ACTION.
+**Current status:** INTERNAL DISTRIBUTION PACKAGE AND OPERATIONS RUNBOOK COMPLETE. FIRST-WAVE VISUAL PRODUCTION REMAINS ACTIVE. METRICOOL PINTEREST CONNECTION IS THE CURRENT EXTERNAL SCHEDULING DEPENDENCY.
 
 The revamped Christmas Gift Organiser remains the first autonomy test. Product rebuilding is not the current bottleneck.
 
-Completed internal package: `marketing/ikhaya-designs/christmas-gift-organiser/distribution-conversion-pack.md`.
+Completed internal assets:
 
-Recommended first wave remains Pins 1–5 plus a short-form Reel, organically first. No paid Pinterest advertising.
+- `marketing/ikhaya-designs/christmas-gift-organiser/distribution-conversion-pack.md`
+- `marketing/ikhaya-designs/christmas-gift-organiser/distribution-operations-runbook.md`
 
-**New owner direction / QA incident, 12 September 2026:** Michaela deleted the previously produced Reel because it contained repeated text corruption where the letter `n` appeared instead of spaces. The underlying concept was otherwise accepted. This is now a mandatory visual QA regression check for generated customer-facing assets: inspect all rendered text character by character for stray `n` characters, spacing corruption, misspellings and AI text artefacts before any asset is considered PASS or suitable for publication. Never recreate or publish the defective Reel unchanged.
+Recommended first wave remains Pins 1, 3, 2, 4 plus the short-form Reel, organically first. No paid Pinterest advertising.
 
-Michaela explicitly said to otherwise go ahead, clearing the prior visual-production approval gate. Canva first-wave visual generation has therefore been initiated using the existing Christmas Pinterest design as visual reference and an explicit no-stray-`n` text requirement.
+**Owner direction / QA incident:** Michaela deleted a previously produced Reel because it contained repeated text corruption where the letter `n` appeared instead of spaces. A later Notion Pin also required correction because `DISTILL` was misspelled. These defects are now mandatory visual-QA regression checks for all generated customer-facing assets: inspect rendered text character by character for stray letters, corrupted spaces, spelling errors, malformed punctuation and AI artefacts before PASS.
+
+Michaela explicitly authorised proceeding with visual production. Do not recreate or publish defective assets unchanged.
+
+**13 September 2026 operations progress:** The Product Manager created and QA-passed a distribution operations runbook that converts the approved strategy into a repeatable publishing workflow. It includes product-truth checks, character-by-character text QA, mobile thumbnail QA, destination consistency checks, Metricool scheduling protocol and post-publication commercial measurement.
+
+A live Metricool connection check on 13 September 2026 found the Ikhaya brand and `Europe/London` timezone, but `networksData` is empty. Pinterest is therefore not yet connected to the Metricool brand and API scheduling cannot be treated as available until that connection exists.
 
 ### Priority 2: optimise existing Etsy listings and Pinterest traffic
 
@@ -66,7 +73,8 @@ Continue research-led education and audience building when higher-priority Desig
 - Customer-facing language should be human, useful and specific.
 - Do not use em dashes in customer-facing copy.
 - Product/listing images must be inspected for clipping, overlap, blank areas, unreadable text, poor hierarchy, incorrect logos and weak thumbnail performance.
-- Generated visual text must be inspected character by character for corrupted spacing, stray letters (especially `n` replacing spaces), spelling errors and other AI text artefacts before PASS.
+- Generated visual text must be inspected character by character for corrupted spacing, stray letters, spelling errors and other AI text artefacts before PASS.
+- Never assume a scheduler/integration is operational. Verify the network connection before describing publication as automated.
 
 ## Management by exception
 
@@ -74,4 +82,4 @@ Continue authorised internal work without repeatedly asking Michaela to continue
 
 ## Next autonomous action
 
-Complete first-wave Christmas visual production, inspect every rendered word and product screenshot, automatically reject/revise any asset with text corruption or visual defects, and proceed to the applicable publication/scheduling gate only after QA PASS. Do not rebuild the underlying Christmas product.
+Continue first-wave Christmas visual production and QA. Once Pinterest is connected to Metricool, use the runbook to schedule only QA-passed assets, then record outbound clicks and downstream Etsy signals. If Metricool remains unconnected, continue other GREEN visual-preparation work without repeatedly asking the owner to continue.
