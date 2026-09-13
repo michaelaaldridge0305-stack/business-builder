@@ -4,7 +4,7 @@
 **Operator:** Ikhaya Digital Product Manager
 **Status:** ACTIVE
 **Last reset:** 10 September 2026
-**Last material update:** 12 September 2026
+**Last material update:** 13 September 2026
 
 ## Purpose
 
@@ -105,20 +105,27 @@ If QA fails and the defect is within GREEN authority, fix it automatically and r
 
 **Business:** Ikhaya Designs GB  
 **Commercial reason:** Existing live seasonal product. September timing makes distribution more urgent than non-seasonal new-product building. Work already invested should now be converted into traffic and sales opportunity.  
-**Status:** INTERNAL PACKAGE COMPLETE; AMBER VISUAL PRODUCTION / EXTERNAL DISTRIBUTION GATE.  
-**Current evidence:** The live Etsy search on 11 September surfaced the Ikhaya listing at £4.79 within a crowded Google Sheets Christmas-planner set ranging roughly from £0.99 to £11.99. The existing three-page Canva Pinterest design was audited and found too generic to differentiate the six-tab organiser.  
+**Status:** INTERNAL STRATEGY + DISTRIBUTION OPERATIONS COMPLETE; FIRST-WAVE VISUAL PRODUCTION ACTIVE; METRICOOL PINTEREST CONNECTION IS THE CURRENT EXTERNAL SCHEDULING DEPENDENCY.  
+**Current evidence:** The live Etsy search on 11 September surfaced the Ikhaya listing at £4.79 within a crowded Google Sheets Christmas-planner set ranging roughly from £0.99 to £11.99. The existing three-page Canva Pinterest design remains too generic to differentiate the six-tab organiser.  
 **Completed package:** `marketing/ikhaya-designs/christmas-gift-organiser/distribution-conversion-pack.md`  
+**Completed operations asset:** `marketing/ikhaya-designs/christmas-gift-organiser/distribution-operations-runbook.md`  
 **Objective:** Convert the finished product into qualified Etsy traffic and sales opportunity rather than rebuilding it.  
-**Authority:** GREEN for audit/research/asset preparation/QA; AMBER for Canva interactive approval and consequential external publishing.  
-**QA result:** PASS. Eight Pinterest concepts, exact copy/CTAs/keywords, a two-wave organic distribution plan, Etsy conversion consistency checks and a calm scenario-led Reel concept have passed CREATE -> CRITIQUE -> FIX -> RE-CHECK.  
-**Recommended first wave:** Pins 1–5 plus the Reel. No paid advertising at this stage.  
+**Authority:** GREEN for audit/research/asset preparation/QA; AMBER for consequential external publishing unless already explicitly authorised.  
+**Recommended first wave:** Pins 1, 3, 2, 4 plus the Reel. No paid advertising at this stage.  
+
+**13 September 2026 progress:**
+- Converted the distribution strategy into a QA-passed publishing runbook covering product truth, mobile thumbnail checks, destination consistency, Metricool scheduling and commercial measurement.
+- Added a mandatory character-by-character text regression check after generated assets showed corrupted spaces/stray `n` characters and a later Pin misspelled `DISTILL`.
+- Verified the connected Metricool brand uses `Europe/London` but currently returns empty `networksData`; Pinterest is therefore not yet connected and Metricool scheduling must not be described as available until that changes.
+- Re-checked the existing Canva Christmas Pin copy and confirmed it still uses generic messaging rather than the approved differentiated first-wave concepts.
+
 **Remaining actions:**
-1. Resolve the AMBER visual-production/publication gate.
-2. Produce the approved visuals using actual product screenshots and the established calm Ikhaya aesthetic.
-3. Publish/schedule only after applicable approval.
+1. Continue production of first-wave Christmas visuals using real product screenshots and the calm Ikhaya aesthetic.
+2. Reject any asset containing spelling, spacing, generated-text or mockup defects.
+3. Once Pinterest is connected to Metricool, schedule only QA-passed assets and verify the returned scheduled-post details.
 4. Record outbound clicks and downstream Etsy signals, then iterate by evidence.
 
-**Stop condition:** Current GREEN internal work is complete. Remaining Christmas work requires the AMBER visual-production/publication action or later performance evidence.
+**Stop condition:** Do not stop for routine visual-production stages. Escalate only if a Canva interaction, Pinterest/Metricool connection, publication approval or another genuine external dependency requires Michaela.
 
 ### NEXT: Systematic existing Etsy listing optimisation
 
@@ -198,7 +205,7 @@ Only a genuine AMBER/RED decision or required manual action. Write `Nothing` whe
 
 The Product Manager passes the first autonomy test when it can take the Christmas Gift Organiser from its current state through the highest-value remaining internal distribution/conversion work, QA the result, record what it completed and surface only genuine publication/account actions to Michaela.
 
-**First autonomy test result as of 11 September 2026:** INTERNAL GREEN PHASE PASSED. The distribution/conversion package has been created, critiqued, fixed, re-checked, stored and recorded. The next step is an AMBER visual-production/publication gate rather than more product rebuilding.
+**First autonomy test result as of 13 September 2026:** INTERNAL GREEN PHASE PASSED AND OPERATIONALISED. The distribution/conversion strategy and publishing runbook are QA-passed and stored. First-wave visual production continues. Metricool cannot yet schedule Pinterest because the Pinterest network is not connected to the brand.
 
 The wider system succeeds when Michaela manages exceptions rather than repeatedly directing routine next steps.
 
@@ -209,3 +216,4 @@ The wider system succeeds when Michaela manages exceptions rather than repeatedl
 | 2026-09-10 | Product Manager OS | Created execution control centre and authority model | Active. Christmas Gift Organiser set as first autonomy test. | None |
 | 2026-09-11 | Christmas Gift Organiser | Audited live Etsy search, existing Canva Pin, Pinterest guidance and current product proposition; built distribution/conversion package; ran full QA loop | PASS. Eight Pin concepts + Reel + distribution sequence stored in repository. Existing generic Canva Pin rejected unchanged. | Approve/enable first-wave visual production and external distribution |
 | 2026-09-12 | 13 Week Cash Flow Forecast | Used current Etsy search and Pinterest guidance; created 8-Pin + Reel organic distribution package; critiqued unsupported-claim and generic-creative risks; fixed and re-checked | PASS. Distribution package stored in repository. Existing live title supports the intended traffic proposition, so no unnecessary listing rewrite was performed. | Approve/enable visual production and external distribution when ready |
+| 2026-09-13 | Christmas Gift Organiser | Built distribution operations runbook; added text-corruption regression QA; rechecked existing Canva copy; verified Metricool connectivity | PASS. Publishing workflow operationalised and durable. Pinterest is not yet connected to Metricool. | Connect Pinterest to the Metricool brand when convenient so scheduled publication can be executed there |
