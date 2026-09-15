@@ -1,6 +1,6 @@
 # Digital Product Manager State
 
-**Updated:** 14 September 2026
+**Updated:** 15 September 2026
 **Status:** ACTIVE ACROSS BOTH IKHAYA BUSINESSES
 
 ## Primary execution source
@@ -29,7 +29,7 @@ Ikhaya Designs GB creates practical digital tools that help people move **from c
 
 ### Priority 1: Christmas Gift Organiser commercial completion
 
-**Current status:** INTERNAL DISTRIBUTION PACKAGE, OPERATIONS RUNBOOK AND REEL PRODUCTION HANDOVER COMPLETE. FIRST-WAVE PIN VISUAL PRODUCTION REMAINS ACTIVE. THE REEL NOW HAS A GENUINE MANUAL CANVA ASSEMBLY DEPENDENCY; METRICOOL PINTEREST CONNECTION REMAINS THE EXTERNAL SCHEDULING DEPENDENCY.
+**Current status:** INTERNAL DISTRIBUTION PACKAGE, OPERATIONS RUNBOOK, REEL HANDOVER AND FIRST-WAVE VISUAL PRODUCTION BOARD COMPLETE. RENDERED PIN IMPLEMENTATION REMAINS ACTIVE. CANVA PERSISTENT EDITS/PUBLISHING REQUIRE THE APPLICABLE OWNER GATE; METRICOOL PINTEREST CONNECTION REMAINS THE EXTERNAL SCHEDULING DEPENDENCY.
 
 The revamped Christmas Gift Organiser remains the first autonomy test. Product rebuilding is not the current bottleneck.
 
@@ -38,16 +38,19 @@ Completed internal assets:
 - `marketing/ikhaya-designs/christmas-gift-organiser/distribution-conversion-pack.md`
 - `marketing/ikhaya-designs/christmas-gift-organiser/distribution-operations-runbook.md`
 - `marketing/ikhaya-designs/christmas-gift-organiser/reel-production-handover.md`
+- `marketing/ikhaya-designs/christmas-gift-organiser/first-wave-visual-production-board.md`
 
 Recommended first wave remains Pins 1, 3, 2, 4 plus the short-form Reel, organically first. No paid Pinterest advertising.
 
-**Owner direction / QA incident:** Michaela deleted a previously produced Reel because it contained repeated text corruption where the letter `n` appeared instead of spaces. A later Notion Pin also required correction because `DISTILL` was misspelled. These defects are now mandatory visual-QA regression checks for all generated customer-facing assets: inspect rendered text character by character for stray letters, corrupted spaces, spelling errors, malformed punctuation and AI artefacts before PASS.
+**Owner direction / QA incident:** Michaela deleted a previously produced Reel because it contained repeated text corruption where the letter `n` appeared instead of spaces. A later Notion Pin also required correction because `DISTILL` was misspelled. These defects are mandatory visual-QA regression checks for all generated customer-facing assets: inspect rendered text character by character for stray letters, corrupted spaces, spelling errors, malformed punctuation and AI artefacts before PASS.
 
 Michaela explicitly authorised proceeding with visual production. Do not recreate or publish defective assets unchanged.
 
-**14 September 2026 Reel direction:** Production testing established that landscape footage cannot be centre-cropped into 9:16 when that removes the woman, because the relaxed person is the meaning of the scenario. Blurred-background conversion was also rejected because it makes the meaningful footage too small. Free AI-video generators are not a reliable route due to credit/format constraints. The approved internal route is now a native 1080 x 1920 lifestyle still with subtle Canva movement, followed by a real-product dashboard proof scene and a short closing CTA. All customer-facing copy must be editable Canva text, not AI-generated text embedded in imagery. The full QA-passed assembly specification is stored in `reel-production-handover.md`.
+**14 September 2026 Reel direction:** Landscape footage cannot be centre-cropped into 9:16 when that removes the woman, because the relaxed person is the meaning of the scenario. Blurred-background conversion was rejected because it makes the meaningful footage too small. The approved route is a native 1080 x 1920 lifestyle still with subtle Canva movement, followed by a real-product dashboard proof scene and a short closing CTA. All customer-facing copy must be editable Canva text, not AI-generated text embedded in imagery. The full QA-passed assembly specification is stored in `reel-production-handover.md`.
 
-The connected Canva editing workflow cannot currently complete the required finished Reel assembly steps reliably: multi-page video sequencing, timing and subtle page animation. The remaining Reel assembly is therefore a genuine manual Canva action rather than additional strategy/product work.
+**15 September 2026 Pin production direction:** The existing Canva `Untitled (Pinterest Pin)` was inspected. It remains a 3-page 1000 x 1500 design with generic `Stay Calm & Organized This Christmas` messaging and reusable image fills. It is not approved unchanged. A QA-passed production board now specifies exact layouts, product-proof requirements, copy, metadata and rendered-file acceptance criteria for Pins 1, 3, 2 and 4. Every first-wave Pin must use real product screenshots and must pass phone-thumbnail and character-level QA before publication.
+
+The connected Canva workflow requires an approval gate before persistent design commits, so unattended runs may inspect and prepare but must not silently commit customer-facing Canva changes. The Reel additionally has a genuine manual Canva sequencing/timing dependency.
 
 A live Metricool connection check on 13 September 2026 found the Ikhaya brand and `Europe/London` timezone, but `networksData` is empty. Pinterest is therefore not yet connected to the Metricool brand and API scheduling cannot be treated as available until that connection exists.
 
@@ -85,4 +88,4 @@ Continue authorised internal work without repeatedly asking Michaela to continue
 
 ## Next autonomous action
 
-Continue first-wave Christmas Pin visual production and QA while the Reel awaits manual Canva assembly. Once Pinterest is connected to Metricool, use the runbook to schedule only QA-passed assets, then record outbound clicks and downstream Etsy signals. Do not rebuild the Christmas product or repeat failed landscape-video conversion approaches.
+At the next actionable owner-approved Canva implementation opportunity, produce Pin 1 from `first-wave-visual-production-board.md` using the real Dashboard, Gift Tracker and People & Ideas screenshots; run rendered-file QA before progressing to Pin 3, Pin 2 and Pin 4. Once Pinterest is connected to Metricool, use the runbook to schedule only QA-passed assets and record outbound clicks/downstream Etsy signals. Do not rebuild the Christmas product or repeat failed landscape-video conversion approaches.
