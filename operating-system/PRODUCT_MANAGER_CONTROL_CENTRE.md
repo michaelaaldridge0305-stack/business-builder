@@ -4,7 +4,7 @@
 **Operator:** Ikhaya Digital Product Manager
 **Status:** ACTIVE
 **Last reset:** 10 September 2026
-**Last material update:** 16 September 2026
+**Last material update:** 17 September 2026
 
 ## Purpose
 
@@ -62,7 +62,7 @@ Review as sceptical buyer, commercial operator, brand/visual reviewer and factua
 
 **Business:** Ikhaya Designs GB  
 **Commercial reason:** Existing live seasonal product. September timing makes distribution more urgent than non-seasonal new-product building.  
-**Status:** INTERNAL STRATEGY + DISTRIBUTION OPERATIONS + REAL-PRODUCT-PROOF SOURCING COMPLETE; FIRST-WAVE RENDERED VISUAL IMPLEMENTATION ACTIVE; METRICOOL PINTEREST CONNECTION IS THE CURRENT EXTERNAL SCHEDULING DEPENDENCY.  
+**Status:** INTERNAL STRATEGY + DISTRIBUTION OPERATIONS + REAL-PRODUCT-PROOF SOURCING COMPLETE; FIVE REEL FRAMES PRODUCED; FIRST-WAVE RENDERED PIN IMPLEMENTATION ACTIVE. METRICOOL IS CONNECTED TO BOTH INSTAGRAM AND PINTEREST.  
 **Objective:** Convert the finished product into qualified Etsy traffic and sales opportunity rather than rebuilding it.  
 **Authority:** GREEN for audit/research/asset preparation/QA; AMBER for consequential external publishing unless already explicitly authorised.  
 **Recommended first wave:** Pins 1, 3, 2, 4 plus the Reel. No paid advertising.
@@ -73,22 +73,24 @@ Completed assets:
 - `marketing/ikhaya-designs/christmas-gift-organiser/reel-production-handover.md`
 - `marketing/ikhaya-designs/christmas-gift-organiser/first-wave-visual-production-board.md`
 - `marketing/ikhaya-designs/christmas-gift-organiser/real-product-proof-source-map.md`
+- `marketing/ikhaya-designs/christmas-gift-organiser/distribution-live-status-2026-09-17.md`
 
-**16 September 2026 progress:**
-- Verified the authoritative live product source as Google Sheet `Ikhaya Christmas Gift Organiser Master v2`, ID `1PcWpHYDs2Ig3xK4C9cqxoze0BB3U5i3NRO6qyaGIpFU`.
-- Verified UK locale/timezone and all six tabs: Dashboard, People & Ideas, Gift Tracker, Budget, Don't Forget, Start Here.
-- Exported and visually inspected the real Dashboard; it is suitable as Pin 1's dominant product proof.
-- Created a durable source map tying the real product tabs to Pins 1, 3, 2 and 4 and explicitly banning fake spreadsheet UI as a connector workaround.
-- Attempted to move the real rendered Dashboard into Canva through the available unattended connector. Canva rejected the generated local file reference, so rendered Pin 1 cannot be truthfully completed through this connector path in an unattended run.
+**17 September 2026 progress:**
+- Re-checked Metricool directly. Brand `IkhayaDesignsGB` (ID `6946614`, timezone `Europe/London`) reports Instagram `ikhayadesignsgb` and Pinterest `ikhayadesignsgb`. The previous Pinterest-disconnected blocker was stale and is removed.
+- Re-exported the authoritative Google Sheet `Ikhaya Christmas Gift Organiser Master v2`, ID `1PcWpHYDs2Ig3xK4C9cqxoze0BB3U5i3NRO6qyaGIpFU`; source access remains healthy.
+- Re-tested Canva transfer of the real source. Connector still rejects the file reference (`BLOCKED_FILE_REFERENCE`), so unattended Pin implementation cannot truthfully substitute fake spreadsheet UI.
+- Recorded the latest owner direction and actual Reel progress: five separate 1080 x 1920 frames have been produced; owner-side work is only Canva assembly/timing plus final product-proof QA.
+- Checked current Metricool best-time data for Instagram as supporting channel evidence; do not apply it to Pinterest because the connector exposes no Pinterest best-time endpoint.
 
 **Remaining actions:**
 1. At the next compatible interactive Canva opportunity, transfer screenshots from the verified master and implement Pin 1 first.
 2. Run full rendered visual QA including phone-thumbnail and character-level checks; reject any defect.
 3. Continue Pin 3, Pin 2 and Pin 4 only after individual QA.
-4. Once Pinterest is connected to Metricool, schedule only QA-passed assets and verify returned scheduled-post details.
-5. Record outbound clicks and downstream Etsy signals, then iterate by evidence.
+4. For the Reel, assemble the five supplied frames at 2.0s / 1.5s / 1.5s / 3.0s / 2.0s and verify the product reveal uses legible real product proof before publication.
+5. Once each asset is QA-passed and publication is authorised, use the already-connected Metricool Pinterest route and verify returned scheduled-post details.
+6. Record outbound clicks and downstream Etsy signals, then iterate by evidence.
 
-**Stop condition:** Do not stop for routine stages. Escalate only for a genuine Canva interaction/asset-transfer gate, Pinterest/Metricool connection, publication approval or other external dependency.
+**Stop condition:** Do not stop for routine stages. Escalate only for a genuine Canva interaction/asset-transfer gate, publication approval or other external dependency. Do not ask Michaela to reconnect Pinterest.
 
 ### NEXT: Systematic existing Etsy listing optimisation
 
@@ -128,6 +130,7 @@ The first autonomy test is passed internally when the Christmas Gift Organiser's
 | 2026-09-10 | Product Manager OS | Created execution control centre and authority model | Active. Christmas Gift Organiser set as first autonomy test. | None |
 | 2026-09-11 | Christmas Gift Organiser | Built distribution/conversion package | PASS. Eight Pin concepts + Reel stored. | Visual production/distribution gate |
 | 2026-09-12 | 13 Week Cash Flow Forecast | Built organic Pinterest distribution package | PASS. Distribution package stored. | External visual/posting gate |
-| 2026-09-13 | Christmas Gift Organiser | Built publishing runbook and verified Metricool | PASS. Pinterest not connected to Metricool. | Connect Pinterest when convenient |
+| 2026-09-13 | Christmas Gift Organiser | Built publishing runbook and checked Metricool | PASS at time of check; later connection state changed. | None now; see 17 Sep correction |
 | 2026-09-15 | Christmas Gift Organiser | Built first-wave visual production board | PASS. Pins 1, 3, 2, 4 production-specific. | Canva persistent implementation gate |
-| 2026-09-16 | Christmas Gift Organiser | Verified master product source, inspected real Dashboard, mapped screenshot proof and tested Canva transfer | PASS for sourcing/handover. Unattended Canva file transfer blocked; fake UI explicitly rejected. | Compatible interactive Canva screenshot transfer/approval; Pinterest connection remains required for scheduling |
+| 2026-09-16 | Christmas Gift Organiser | Verified master product source, inspected real Dashboard, mapped screenshot proof and tested Canva transfer | PASS for sourcing/handover. Unattended Canva file transfer blocked; fake UI explicitly rejected. | Compatible interactive Canva screenshot transfer/approval |
+| 2026-09-17 | Christmas Gift Organiser | Reconciled live integrations and latest Reel production | PASS. Pinterest + Instagram confirmed connected in Metricool; five Reel frames recorded; Canva real-source transfer remains blocked. | Assemble Reel / compatible Canva real-screenshot transfer and publication approval when assets pass |
