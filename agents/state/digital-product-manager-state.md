@@ -1,97 +1,87 @@
 # Digital Product Manager State
 
-**Updated:** 17 September 2026
+**Updated:** 20 September 2026
 **Status:** ACTIVE ACROSS BOTH IKHAYA BUSINESSES
 
 ## Primary execution source
 
-The Product Manager operates through:
-
-`operating-system/PRODUCT_MANAGER_CONTROL_CENTRE.md`
-
-Read that control centre at the beginning of every Product Manager run. It contains the live commercial queue, GREEN / AMBER / RED authority model, definition of complete, execution loop, reporting format and autonomy test.
-
-This state file preserves strategic constraints. If the control centre and this file differ on current task priority, use the newer explicit owner direction and then the control centre. Do not override the strategic business constraints below without explicit owner direction.
+Operate through `operating-system/PRODUCT_MANAGER_CONTROL_CENTRE.md` and read newer explicit owner direction before selecting work. The Product Manager charter remains `agents/ikhaya-digital-product-manager.md`.
 
 ## Operating scope
 
-Treat **Ikhaya Automations** and **Ikhaya Designs GB** as distinct businesses.
+Treat Ikhaya Automations and Ikhaya Designs GB as distinct businesses. Ikhaya Automations remains education-first and its immediate paid-product push remains paused unless Michaela explicitly reauthorises it. Ikhaya Designs GB remains a practical-tools business built around moving customers from chaos to calm, with Etsy as the primary sales channel and Pinterest as a qualified discovery/traffic channel.
 
-### Ikhaya Automations
+## Latest owner direction now governing execution
 
-Education and audience-building remain the primary model. The immediate paid-product push remains paused. Do not restart `Numbers to Management Narrative` or begin another Ikhaya Automations paid product unless Michaela explicitly reauthorises it. Research-led educational work remains authorised. External publication remains an owner approval gate where required.
+The 19-20 September brain dump materially expanded the active Designs work. Do not allow a Canva dependency on one Christmas asset to stall other GREEN work.
 
-### Ikhaya Designs GB
+### Commercial positioning
 
-Ikhaya Designs GB creates practical digital tools that help people move **from chaos to calm**. It is not a planner shop. Etsy is the primary sales channel. Pinterest is primarily a qualified traffic/discovery channel to Etsy. Instagram is a supporting awareness channel.
+Ikhaya Designs GB should communicate **class, elegance, sophistication and organisation**. Seasonal products must still look like Ikhaya. Avoid generic, cluttered or kitsch seasonal styling. Competitors may be studied for hierarchy, merchandising and conversion technique, not copied aesthetically.
+
+### Pricing
+
+Benchmark prices in the actual Etsy UK buyer environment, not from generic pricing research. At the shop's current early-sales stage, favour accessible conversion-led pricing and social proof before attempting to maximise margin per sale. Do not reduce every product automatically; benchmark product by product.
+
+Christmas Gift Organiser owner-set base price: £1.99. A recent UK buyer view was approximately £2.39. Live Etsy competitive research on 20 September found 20 relevant listings from £0.93 to £13.10 with a median of £3.51. Current Christmas price therefore remains commercially coherent and should be held while conversion work moves to hero imagery and distribution. Durable audit: `marketing/ikhaya-designs/christmas-gift-organiser/etsy-competitive-pricing-audit-2026-09-20.md`.
+
+### Hero images
+
+Audit every live product in actual Etsy-search context, especially mobile/search-thumbnail performance. For each listing determine KEEP / IMPROVE / REPLACE based on immediate product comprehension, hierarchy, legibility, professionalism, differentiation and click-worthiness beside competitors. A pleasant image is not sufficient.
+
+### Distribution
+
+Target at least three quality Pinterest Pins per day across the wider catalogue, with seasonal weighting for Christmas but not Christmas-only distribution. Use varied clarity, payoff, curiosity, problem, use-case, educational and product-proof angles. Pins should link to the relevant Etsy listing and should not merely resize listing images.
 
 ## Current priority order
 
-### Priority 1: Christmas Gift Organiser commercial completion
+### Priority 1: Christmas Gift Organiser conversion and distribution
 
-**Current status:** INTERNAL DISTRIBUTION PACKAGE, OPERATIONS RUNBOOK, REEL HANDOVER, FIRST-WAVE VISUAL PRODUCTION BOARD AND REAL-PRODUCT-PROOF SOURCE MAP COMPLETE. FIVE SEPARATE REEL FRAMES HAVE BEEN PRODUCED FOR OWNER CANVA ASSEMBLY. RENDERED PIN IMPLEMENTATION REMAINS ACTIVE. METRICOOL IS LIVE FOR BOTH INSTAGRAM AND PINTEREST; CONNECTIVITY IS NOT A BLOCKER.
+The product itself is finished. Do not rebuild it unnecessarily.
 
-The revamped Christmas Gift Organiser remains the first autonomy test. Product rebuilding is not the current bottleneck.
+Completed internal assets include the distribution/conversion package, operations runbook, Reel handover, first-wave visual production board, real-product-proof source map, live-status record and the 20 September live Etsy pricing audit.
 
-Completed internal assets:
+Five Reel frames already exist for Canva assembly. Metricool is connected to Instagram and Pinterest. The remaining rendered Pin dependency is genuine real-product screenshot transfer into Canva. Do not substitute a fake spreadsheet UI.
 
-- `marketing/ikhaya-designs/christmas-gift-organiser/distribution-conversion-pack.md`
-- `marketing/ikhaya-designs/christmas-gift-organiser/distribution-operations-runbook.md`
-- `marketing/ikhaya-designs/christmas-gift-organiser/reel-production-handover.md`
-- `marketing/ikhaya-designs/christmas-gift-organiser/first-wave-visual-production-board.md`
-- `marketing/ikhaya-designs/christmas-gift-organiser/real-product-proof-source-map.md`
-- `marketing/ikhaya-designs/christmas-gift-organiser/distribution-live-status-2026-09-17.md`
+**20 September pricing conclusion:** HOLD £1.99 base price. Current price is below the live-search median and inside the competitive entry-price cluster. The next conversion lever is hero imagery and qualified traffic.
 
-Recommended first wave remains Pins 1, 3, 2, 4 plus the short-form Reel, organically first. No paid Pinterest advertising.
+If Canva is blocked, immediately continue another GREEN task rather than waiting.
 
-**Owner direction / QA incident:** Michaela deleted a previously produced Reel because it contained repeated text corruption where the letter `n` appeared instead of spaces. A later Notion Pin also required correction because `DISTILL` was misspelled. These defects are mandatory visual-QA regression checks for all generated customer-facing assets: inspect rendered text character by character for stray letters, corrupted spaces, spelling errors, malformed punctuation and AI artefacts before PASS.
+### Priority 2: whole-shop Etsy competitive pricing + hero-image audit
 
-Michaela explicitly authorised proceeding with visual production. Do not recreate or publish defective assets unchanged.
+Audit every existing listing using live Etsy buyer/search evidence. Record buyer-visible competitor prices, product scope, trust signals and hero-image merchandising. Produce a prioritised Keep / Improve / Replace hero assessment and pricing recommendation for each product. Do not make external listing or price changes without the applicable approval.
 
-**14 September 2026 Reel direction:** Landscape footage cannot be centre-cropped into 9:16 when that removes the woman, because the relaxed person is the meaning of the scenario. Blurred-background conversion was rejected because it makes the meaningful footage too small. The approved route is a native 1080 x 1920 lifestyle still with subtle Canva movement, followed by a real-product dashboard proof scene and a short closing CTA. All customer-facing copy must be editable Canva text, not AI-generated text embedded in imagery. The full QA-passed assembly specification is stored in `reel-production-handover.md`.
+### Priority 3: catalogue-wide Pinterest distribution
 
-**16 September 2026 Reel production:** Five actual separate 1080 x 1920 frames were produced for the owner to assemble in Canva. Sequence/timing: presents sorted 2.0s; budget under control 1.5s; nothing left to remember 1.5s; product reveal 3.0s; enjoy Christmas CTA 2.0s. The current Canva connector still cannot control the required multi-scene timing/animation. Real-product-proof legibility remains a mandatory pre-publication QA check; do not publish a recreated/fake spreadsheet UI.
+Maintain a broader product mix and work toward at least three quality Pins per day, weighted by seasonality and commercial opportunity. Existing 13 Week Cash Flow Forecast Pinterest package remains usable.
 
-**15 September 2026 Pin production direction:** The existing Canva `Untitled (Pinterest Pin)` was inspected. It remains a 3-page 1000 x 1500 design with generic `Stay Calm & Organized This Christmas` messaging and reusable image fills. It is not approved unchanged. A QA-passed production board now specifies exact layouts, product-proof requirements, copy, metadata and rendered-file acceptance criteria for Pins 1, 3, 2 and 4. Every first-wave Pin must use real product screenshots and must pass phone-thumbnail and character-level QA before publication.
+### Priority 4: England-specific bereavement guide, substantially expanded
 
-**16 September 2026 source-of-truth verification:** Google Drive was searched and `Ikhaya Christmas Gift Organiser Master v2` (spreadsheet ID `1PcWpHYDs2Ig3xK4C9cqxoze0BB3U5i3NRO6qyaGIpFU`) was verified as the authoritative product source. It is `en_GB`, `Europe/London` and contains Dashboard, People & Ideas, Gift Tracker, Budget, Don't Forget and Start Here. The Dashboard was exported and visually inspected and is suitable real product proof for Pin 1. A durable source map is stored in `real-product-proof-source-map.md`.
+This is an explicit exception to the general pause on new products because it is personally important to Michaela and has a defined customer purpose.
 
-**17 September 2026 live correction:** Metricool brand `IkhayaDesignsGB` (brand ID `6946614`, timezone `Europe/London`) was checked directly and reports both Instagram `ikhayadesignsgb` and Pinterest `ikhayadesignsgb`. Earlier repository notes saying Pinterest was disconnected are stale. Do not ask Michaela to reconnect Pinterest. A fresh export of the authoritative master succeeded, but a fresh Canva transfer test still returned `BLOCKED_FILE_REFERENCE`; therefore the genuine remaining production dependency is transfer/use of real master screenshots in Canva, not social-account connectivity.
+The product is no longer merely an administration organiser. It should deliberately contain two substantial parts:
 
-The connected Canva workflow requires an approval gate before persistent design commits, so unattended runs may inspect and prepare but must not silently commit customer-facing Canva changes. The Reel additionally has a genuine manual Canva sequencing/timing dependency.
+1. **What you need to do**: accurate England-specific practical guidance covering registering a death, certificates/documentation, Tell Us Once, funeral-related administration, notifying organisations, estate administration, probate and related practical responsibilities. Use authoritative current sources and fact-check all procedural/legal claims.
+2. **Looking after the person left behind**: substantial compassionate support, not a token final page. Research general bereavement support plus specialist routes for child loss, suicide bereavement/suicide prevention, Armed Forces-related bereavement where relevant, and people whose life/identity centred on caring for someone and who may struggle after the caring role ends. Include trustworthy contact routes.
 
-### Priority 2: optimise existing Etsy listings and Pinterest traffic
+Also research gentle non-clinical wellbeing support such as meditation, grounding and reflection. These must not be presented as substitutes for professional mental-health care.
 
-Continue systematic Etsy listing audits using the SmallBizSis-derived framework and the standard established with the Notion Guide. Prioritise listings with stronger demand signals where data is available.
+A grief/remembrance section may draw thoughtfully from contemplative/Buddhist or related traditions and unusual cultural/literary sources mentioned by Michaela, including *How to Live When a Loved One Dies*, *The Time Traveler's Wife* and Pixar's *Coco*. Verify wording and provenance. Do not invent quotations. Respect copyright and use only appropriately brief quotations or original Ikhaya-language summaries of underlying ideas.
 
-The 13 Week Cash Flow Forecast has a QA-passed internal Pinterest distribution package at `marketing/ikhaya-designs/13-week-cash-flow-forecast/pinterest-distribution-pack.md`. External visual production/posting remains behind the applicable approval gate.
+Core emotional principle: grief is not a timetable, people should know they are not alone, and the guide should acknowledge the person after the administrative tasks begin to recede.
 
-### Priority 3: England & Wales bereavement administration organiser
-
-Research and commercial validation have completed and the narrowed England & Wales v1 build was explicitly approved by Michaela on 10 September 2026. Work is on `codex/bereavement-validation`. Do not let it displace time-sensitive Christmas distribution.
-
-### Priority 4: continue Ikhaya Automations education work
+### Priority 5: Ikhaya Automations education work
 
 Continue research-led education and audience building when higher-priority Designs work is not actionable.
 
-## Ikhaya Designs GB operating principles
+## Mandatory QA regressions
 
-- Core promise: practical tools that help people move from chaos to calm.
-- Do not position the business as a planner shop.
-- Prefer clean, calm, practical, professional design.
-- Avoid pink unless specifically requested.
-- Use the correct Ikhaya Designs GB logo where appropriate.
-- Green/neutral styling and restrained botanical/eucalyptus elements may be used where suitable.
-- Customer-facing language should be human, useful and specific.
-- Do not use em dashes in customer-facing copy.
-- Product/listing images must be inspected for clipping, overlap, blank areas, unreadable text, poor hierarchy, incorrect logos and weak thumbnail performance.
-- Generated visual text must be inspected character by character for corrupted spacing, stray letters, spelling errors and other AI text artefacts before PASS.
-- Never assume a scheduler/integration is operational. Verify the network connection before describing publication as automated.
+All customer-facing visual assets must be inspected character by character for corrupted spaces, stray letters, spelling errors, malformed punctuation and AI artefacts. Past defects included an `n` appearing in place of spaces and `DISTILL` being misspelled. Real product proof must remain legible and must not be recreated/faked.
 
 ## Management by exception
 
-Continue authorised internal work without repeatedly asking Michaela to continue. Escalate only for genuine owner decisions, permissions, publication approvals, spending, strategic forks, consequential external actions, missing owner-only facts, material risk, or a formal validation decision gate.
+Continue authorised internal work without repeatedly asking Michaela to continue. Escalate only for genuine owner decisions, permissions, publication approvals, spending, strategic forks, consequential external actions, missing owner-only facts, material risk or formal validation gates.
 
 ## Next autonomous action
 
-Use the corrected live status: Pinterest is connected to Metricool. Prioritise Pin 1 rendered implementation using real screenshots from the verified master. The current unattended Canva connector still cannot transfer the exported source, so do not substitute generated spreadsheet UI. At the next compatible interactive Canva opportunity, use real master screenshots, run phone-thumbnail and character-level QA, then progress Pin 3, Pin 2 and Pin 4. Once each asset passes and the applicable publication approval exists, Metricool can schedule it. For the Reel, owner-side work is limited to assembling the five supplied frames with the recorded timings and applying subtle movement/transitions; verify the product-reveal frame uses legible real product proof before publication.
+Christmas price is now evidence-checked and provisionally settled. Continue Christmas conversion work where tools permit, prioritising hero-image competitiveness and real-product-proof distribution. If the Canva real-screenshot transfer remains blocked, proceed directly into the whole-shop Etsy competitive pricing/hero audit and catalogue-wide Pinterest work rather than stopping.
