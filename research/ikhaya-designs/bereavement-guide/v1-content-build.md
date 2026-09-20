@@ -1,9 +1,9 @@
-# England & Wales Bereavement Administration Organiser — V1 Content Build
+# England Bereavement Administration Organiser — V1 Content Build
 
 **Brand:** Ikhaya Designs GB
 **Build status:** INTERNAL DRAFT FOR CRITIQUE / QA
 **Version:** 0.1 — 10 September 2026
-**Scope:** England and Wales
+**Scope:** England
 
 > Production rule: this is an administration organiser, not legal, tax, probate or grief advice. Final designed product must retain the scope and privacy notices and link procedural matters to authoritative current guidance.
 
@@ -13,7 +13,7 @@
 
 A calm place to keep track of the practical things that need doing after someone dies.
 
-England & Wales edition
+England edition
 
 Ikhaya Designs GB
 
@@ -330,7 +330,7 @@ Record advice accurately and keep formal advice/documents separately where appro
 
 Always check current official guidance before relying on a procedure.
 
-**Core England & Wales starting point**
+**Core England starting point**
 - GOV.UK — What to do when someone dies: https://www.gov.uk/when-someone-dies
 - GOV.UK — Tell Us Once: https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
 - GOV.UK — Probate: https://www.gov.uk/applying-for-probate
@@ -341,12 +341,91 @@ Always check current official guidance before relying on a procedure.
 - Marie Curie: https://www.mariecurie.org.uk/information/grief
 - Cruse Bereavement Support: https://www.cruse.org.uk/
 
-If you are in Scotland or Northern Ireland, use the relevant devolved-government guidance rather than this England & Wales organiser.
+If you are in Scotland or Northern Ireland, use the relevant devolved-government guidance rather than this England organiser.
 
-## 24. Privacy, Storage & Version Information
+## Part Two: Looking After the Person Left Behind
+
+This section is not a timetable for grief and it is not therapy. Use the pages that feel helpful and leave the rest. There is no correct order and no expectation that grief should become easier by a particular date.
+
+### 24. Your Support Map
+
+| Person / service | How they can help | How to contact them | When I might reach out | Notes |
+|---|---|---|---|---|
+| | | | | |
+| | | | | |
+
+Prompts:
+- Who can sit with me without trying to fix things?
+- Who can help with practical tasks?
+- Who can I contact professionally if I feel unable to cope?
+- Who understands this particular kind of loss?
+
+### 25. When Grief Changes Day to Day
+
+Grief can affect concentration, memory, sleep, appetite, energy and the ability to make decisions. A difficult day does not mean you are going backwards.
+
+Today, the smallest useful thing I can do is: ______________________________
+
+Something I can postpone, delegate or let go of is: _________________________
+
+Someone I can contact is: _________________________________________________
+
+### 26. Gentle Grounding
+
+These optional prompts are for settling attention, not removing grief:
+
+- Put both feet on the floor and notice five things you can see.
+- Take a slow breath without forcing it to be deep.
+- Name one physical sensation, one emotion and one immediate need.
+- Choose one next action small enough to complete.
+- Stop if an exercise feels distressing and seek appropriate support.
+
+These prompts do not replace medical or mental-health care.
+
+### 27. Different Experiences of Bereavement
+
+No section can describe every experience. Provide dedicated signposting for:
+
+- the death of a child or baby;
+- bereavement after suicide;
+- Armed Forces-related bereavement;
+- the end of a long caring role and the loss of identity or routine that may follow;
+- children and young people who are grieving;
+- traumatic or sudden death.
+
+Avoid comparisons, fixed stages and instructions about how someone should feel.
+
+### 28. Remembering the Person
+
+Optional prompts:
+
+- Something I want people to remember about them:
+- A place, routine, object, meal or piece of music that carries meaning:
+- A story I do not want to lose:
+- A way I may want to mark an anniversary or significant day:
+- Something they taught me or made possible:
+
+Any literary, film or spiritual material used in the finished product must be paraphrased in original Ikhaya language unless a short quotation has been verified for wording, provenance and copyright suitability.
+
+### 29. Trusted Support Routes
+
+Check these details again immediately before publication:
+
+- NHS urgent mental-health help: https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/
+- Samaritans: https://www.samaritans.org/how-we-can-help/contact-samaritan/
+- Cruse Bereavement Support: https://www.cruse.org.uk/
+- Cruse support after suicide: https://www.cruse.org.uk/grief-after-suicide/
+- Sands baby-loss support: https://www.sands.org.uk/support-you
+- Survivors of Bereavement by Suicide: https://uksobs.com/
+- SSAFA bereavement support: https://www.ssafa.org.uk/get-help/bereavement-support
+- Carers UK, life after caring: https://www.carersuk.org/help-and-advice/practical-support/life-after-caring/
+
+If someone is in immediate danger, call 999 or go to A&E.
+
+## 30. Privacy, Storage & Version Information
 
 **Version:** 0.1 content build, 10 September 2026
-**Jurisdiction:** England & Wales
+**Jurisdiction:** England
 
 A completed organiser may contain personal, estate and financial information. Keep printed copies secure and protect digital copies appropriately. Share only with people who need the information for legitimate administration.
 
@@ -364,7 +443,7 @@ This product is an organisational aid and general signposting resource. It does 
 
 1. **Differentiation:** the strongest pages are the contact/follow-up log, document tracker, information-request tracker and outstanding-actions review. Together they create a working control system rather than another reading-heavy checklist.
 2. **Cognitive load:** Now/Soon/Later staging and the outstanding-actions page give the user an obvious re-entry point when administration becomes overwhelming.
-3. **Scope discipline:** funeral planning, grief counselling and detailed legal/tax instruction are deliberately excluded.
+3. **Scope discipline:** funeral planning, therapy and detailed legal/tax instruction are excluded, while the authorised compassionate-support section is now included with clear non-clinical boundaries.
 4. **Privacy:** password capture is explicitly prohibited and sensitive-data warnings are repeated where useful.
 5. **Maintenance:** volatile monetary thresholds, probate fees and tax figures are not embedded.
 
@@ -379,6 +458,6 @@ This product is an organisational aid and general signposting resource. It does 
 
 ## QA gate status
 
-**CONTENT BUILD: PASS WITH REQUIRED PRE-DESIGN FACT CHECK.**
+**CONTENT BUILD: CORRECTING — ENGLAND-ONLY SCOPE APPLIED; SPECIALIST SUPPORT LINKS AND ALL PROCEDURAL CLAIMS REQUIRE FINAL PRE-DESIGN VERIFICATION.**
 
 The product demonstrates paid utility beyond a generic checklist at content level. It is ready for authoritative procedural fact-check and then visual production. External publication and final price remain unapproved.
