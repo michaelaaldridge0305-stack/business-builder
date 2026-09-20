@@ -459,6 +459,6 @@ This product is an organisational aid and general signposting resource. It does 
 
 ## QA gate status
 
-**CONTENT BUILD: CORRECTING — ENGLAND-ONLY SCOPE APPLIED; SPECIALIST SUPPORT LINKS AND ALL PROCEDURAL CLAIMS REQUIRE FINAL PRE-DESIGN VERIFICATION.**
+**CONTENT BUILD: QA PASSED — ENGLAND-ONLY SCOPE, PROCEDURAL SIGNPOSTING, SAFEGUARDING LANGUAGE AND SUPPORT ROUTES VERIFIED 20 SEPTEMBER 2026. READY FOR VISUAL PRODUCTION.**
 
 The product demonstrates paid utility beyond a generic checklist at content level. It is ready for authoritative procedural fact-check and then visual production. External publication and final price remain unapproved.
