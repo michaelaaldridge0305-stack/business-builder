@@ -6,11 +6,11 @@
 
 ## Core journey
 
-The authoritative England and Wales journey is: register the death, notify government and non-government organisations, arrange the funeral, check bereavement benefits and effects on the survivor's tax/benefits/pension, value the estate and assess Inheritance Tax, apply for probate where required, settle debts/taxes and administer/distribute the estate.
+The authoritative England journey is: register the death, notify government and non-government organisations, arrange the funeral, check bereavement benefits and effects on the survivor's tax/benefits/pension, value the estate and assess Inheritance Tax, apply for probate where required, settle debts/taxes and administer/distribute the estate.
 
 This is not one universal UK process. Scotland and Northern Ireland have material differences in registration, terminology and estate procedure, so a product should not present a single UK-wide checklist without jurisdiction routing.
 
-## England and Wales
+## England
 
 ### Death certification and registration
 
@@ -30,9 +30,9 @@ Probate applications differ depending on whether there is a will. Estate adminis
 
 ## Scotland
 
-A death in Scotland should be registered within 8 days where possible. mygov.scot states that the registrar needs the Medical Certificate of Cause of Death. Scotland uses different estate/probate terminology and procedure from England and Wales. Tell Us Once is available for people living in Scotland and includes Social Security Scotland alongside UK government bodies.
+A death in Scotland should be registered within 8 days where possible. mygov.scot states that the registrar needs the Medical Certificate of Cause of Death. Scotland uses different estate/probate terminology and procedure from England. Tell Us Once is available for people living in Scotland and includes Social Security Scotland alongside UK government bodies.
 
-A future product must route Scottish users to Scottish authoritative sources rather than merely changing the registration deadline in an England/Wales workflow.
+A future product must route Scottish users to Scottish authoritative sources rather than merely changing the registration deadline in an England workflow.
 
 ## Northern Ireland
 
