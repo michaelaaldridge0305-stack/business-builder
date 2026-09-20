@@ -5,9 +5,9 @@
 
 ## Product concept
 
-A calm, practical **England and Wales bereavement administration organiser** that helps a family member, executor or administrator keep control of practical tasks after an adult death.
+A calm, practical **England bereavement administration organiser** that helps a family member, executor or administrator keep control of practical tasks after an adult death.
 
-It is an administration system, not an ebook, grief journal, legal guide or notification service.
+It is a two-part practical and compassionate resource: an administration control system plus meaningful support for the person left behind. It is not legal, tax, probate, financial, medical or mental-health advice, and it is not a notification service.
 
 ## Job to be done
 
@@ -17,7 +17,7 @@ When I am dealing with practical administration after someone dies, help me see 
 
 ### Included
 
-- England and Wales core route
+- England core route
 - first-days / next-weeks / later staging
 - Tell Us Once plus private-organisation gap
 - document and information organisation
@@ -26,7 +26,10 @@ When I am dealing with practical administration after someone dies, help me see 
 - asset/debt discovery organisation
 - executor/estate progress signposting
 - authoritative links
-- bereavement support signposting
+- a substantial support section for the person left behind
+- general grief support and trusted contact routes
+- specialist signposting for child and baby loss, suicide bereavement, Armed Forces-related bereavement, former carers, and children and young people
+- gentle optional grounding, reflection and remembrance pages
 
 ### Excluded / signposted
 
@@ -34,7 +37,8 @@ When I am dealing with practical administration after someone dies, help me see 
 - personalised probate/legal/tax advice
 - complex estate instructions
 - full funeral planning workbook
-- grief therapy/journaling
+- therapy, diagnosis or clinical treatment
+- prescriptive stages or timelines for grief
 - sending notifications on the user's behalf
 - storing passwords
 
@@ -60,8 +64,15 @@ When I am dealing with practical administration after someone dies, help me see 
 20. Estate values / information-request tracker (organisation only)
 21. Outstanding actions review
 22. Notes / questions for professionals
-23. Official sources and support
-24. Privacy, storage and version information
+23. Official sources and practical support
+24. Part Two introduction: grief has no timetable
+25. Your support map
+26. When grief changes day to day
+27. Gentle grounding and reflection
+28. Specialist support routes: child/baby loss, suicide, Armed Forces, former carers, children and young people
+29. Remembering the person
+30. Trusted support contacts and urgent-help signposting
+31. Privacy, storage and version information
 
 Repeated log sheets may bring final useful length to approximately 24-28 pages.
 
@@ -88,7 +99,7 @@ The Etsy hero image, if later authorised, must show the working system rather th
 - Authoritative source page with GOV.UK links.
 - Procedural sections kept concise to reduce staleness.
 - Volatile fees/thresholds avoided unless essential.
-- Clear England-and-Wales scope.
+- Clear England-only scope.
 - Annual review minimum, plus event-driven review after material government process changes.
 
 ## Commercial test
