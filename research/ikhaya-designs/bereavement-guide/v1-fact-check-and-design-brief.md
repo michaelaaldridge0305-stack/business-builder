@@ -1,7 +1,7 @@
 # V1 Fact Check & Design Brief
 
 **Date:** 10 September 2026
-**Status:** FACT CHECK PASSED — READY FOR VISUAL PRODUCTION
+**Status:** CORRECTING — ENGLAND-ONLY SCOPE APPLIED; EXPANDED SUPPORT SECTION REQUIRES SPECIALIST FACT CHECK BEFORE VISUAL PRODUCTION
 
 ## Authoritative fact check
 
@@ -40,7 +40,7 @@ Turn the approved content into a calm, highly usable working organiser that look
 - Primary: A4 portrait PDF suitable for home printing and tablet annotation.
 - Do not force wide tables into unreadably small portrait layouts.
 - Contact tracking should use either two linked portrait pages or a carefully designed landscape insert if needed.
-- Aim for approximately 24-28 functional pages after repeated working sheets.
+- Aim for approximately 30-36 functional pages after repeated working sheets.
 - Maintain generous writing space.
 
 ### Brand direction
@@ -99,7 +99,7 @@ Use consistently where applicable:
 Before the designed product can reach owner approval:
 - every content section from the authorised specification is represented;
 - all official links work;
-- England & Wales scope is prominent;
+- England scope is prominent;
 - disclaimers are legible but not alarmist;
 - no legal/tax/probate outcome is presented as personalised advice;
 - no passwords/PIN/security-answer fields exist;
@@ -113,4 +113,4 @@ Before the designed product can reach owner approval:
 
 ## Gate
 
-No owner decision is required at this stage. Visual production is routine authorised work under the approved build. Final product publication, pricing, and any material scope change remain escalation points.
+No further owner decision is required for the approved England-only conversion. Visual production must wait until the expanded emotional-support section, contact details and revised procedural wording receive a fresh specialist fact check. Final product publication, pricing, and any material scope change remain escalation points.
