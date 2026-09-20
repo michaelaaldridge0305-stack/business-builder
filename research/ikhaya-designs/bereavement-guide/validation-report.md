@@ -57,11 +57,11 @@ The product should not assume the buyer is legally the executor from page one. I
 
 ### 6. What jurisdiction should v1 cover?
 
-**Recommendation: England and Wales v1.**
+**Recommendation: England v1.**
 
 Reason: the largest addressable UK jurisdiction can be covered accurately with one coherent process. Scotland and Northern Ireland have material differences in registration, terminology and estate/probate procedure. Whole-UK coverage would increase complexity, QA burden and maintenance before demand is proven.
 
-The product can state clearly that v1 is for England and Wales. Scotland and Northern Ireland can become later variants if sales justify them.
+The product can state clearly that v1 is for England. Scotland and Northern Ireland can become later variants if sales justify them.
 
 ### 7. What exact format best solves the problem?
 
@@ -113,7 +113,7 @@ High-risk procedural details should live behind official links rather than be du
 
 **BUILD, WITH A NARROWED V1**, subject to Michaela's approval of the decision gate.
 
-Do not build a whole-UK bereavement ebook. Build an England-and-Wales administration control system whose paid value is cognitive relief, organisation and follow-through.
+Do not build a whole-UK bereavement ebook. Build an England-only administration control system whose paid value is cognitive relief, organisation and follow-through.
 
 ## Critical review
 
@@ -129,17 +129,17 @@ The category is commercially credible but not a likely high-ticket product. It f
 
 ### Quality/risk reviewer view
 
-England-and-Wales-only v1 materially improves accuracy. The system should distinguish factual instructions, organisational prompts and "check official guidance" decision points visually. It should never promise exhaustiveness for every estate.
+England-only-only v1 materially improves accuracy. The system should distinguish factual instructions, organisational prompts and "check official guidance" decision points visually. It should never promise exhaustiveness for every estate.
 
 ## Proposed build specification if approved
 
-**Working product type:** Bereavement Administration Organiser for England & Wales
+**Working product type:** Bereavement Administration Organiser for England
 
 **Transformation:** from scattered paperwork and mental load to one calm view of what needs doing, what has been done and what still needs follow-up.
 
 **Target length:** approximately 18-28 genuinely useful pages, depending on repeated log sheets. Utility matters more than page count.
 
-**Delivery:** A4 printable PDF plus fillable PDF if technically robust. Consider a US Letter version only if evidence shows non-UK demand, but UK procedural content remains England/Wales specific.
+**Delivery:** A4 printable PDF plus fillable PDF if technically robust. Consider a US Letter version only if evidence shows non-UK demand, but UK procedural content remains England specific.
 
 **Visual direction:** Ikhaya Designs GB greens/neutrals, restrained botanical detail, high whitespace, strong functional hierarchy. Avoid sombre funeral clichés and decorative clutter.
 
