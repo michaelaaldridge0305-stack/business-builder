@@ -411,16 +411,17 @@ Any literary, film or spiritual material used in the finished product must be pa
 
 Check these details again immediately before publication:
 
-- NHS urgent mental-health help: https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/
-- Samaritans: https://www.samaritans.org/how-we-can-help/contact-samaritan/
-- Cruse Bereavement Support: https://www.cruse.org.uk/
-- Cruse support after suicide: https://www.cruse.org.uk/grief-after-suicide/
-- Sands baby-loss support: https://www.sands.org.uk/support-you
-- Survivors of Bereavement by Suicide: https://uksobs.com/
-- SSAFA bereavement support: https://www.ssafa.org.uk/get-help/bereavement-support
-- Carers UK, life after caring: https://www.carersuk.org/help-and-advice/practical-support/life-after-caring/
+- **Urgent mental-health help in England:** call NHS 111 and select the mental-health option, or use NHS 111 online: https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/
+- **Immediate danger:** call 999 or go to A&E if someone's life is at risk or a person cannot keep themselves or someone else safe.
+- **Samaritans:** call 116 123 free, day or night: https://www.samaritans.org/how-we-can-help/contact-samaritan/
+- **Cruse Bereavement Support:** https://www.cruse.org.uk/
+- **Cruse support after suicide:** https://www.cruse.org.uk/grief-after-suicide/
+- **Sands baby-loss support:** call 0808 164 3332 or visit https://www.sands.org.uk/support-you
+- **Survivors of Bereavement by Suicide:** call 0300 111 5065 or visit https://uksobs.com/
+- **SSAFA for members of the Armed Forces community, veterans and their families:** call Forcesline on 0800 260 6780 or visit https://www.ssafa.org.uk/get-help
+- **Carers UK, life after caring:** https://www.carersuk.org/help-and-advice/practical-support/life-after-caring/
 
-If someone is in immediate danger, call 999 or go to A&E.
+These organisations provide different kinds of support. Some offer listening or peer support rather than counselling, clinical treatment, emergency response or legal advice. Check opening hours and eligibility on the organisation's current website.
 
 ## 30. Privacy, Storage & Version Information
 
