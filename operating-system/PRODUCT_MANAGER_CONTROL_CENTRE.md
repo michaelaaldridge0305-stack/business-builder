@@ -3,7 +3,7 @@
 **Owner:** Michaela
 **Operator:** Ikhaya Digital Product Manager
 **Status:** ACTIVE
-**Last material update:** 20 September 2026
+**Last material update:** 21 September 2026
 
 ## Purpose
 
@@ -47,32 +47,23 @@ A task is COMPLETE only when the intended commercial/customer outcome has been d
 
 **Rule:** avoid unnecessary product rebuilding. If a Canva dependency blocks one asset, continue another GREEN workstream immediately.
 
-Completed durable assets include the distribution/conversion package, operations runbook, Reel handover, first-wave visual production board, real-product-proof source map, live-status record and `marketing/ikhaya-designs/christmas-gift-organiser/etsy-competitive-pricing-audit-2026-09-20.md`.
+Completed durable assets include the distribution/conversion package, operations runbook, Reel handover, first-wave visual production board, real-product-proof source map, live-status record, `etsy-competitive-pricing-audit-2026-09-20.md` and `etsy-hero-competitive-audit-2026-09-21.md`.
 
-**20 September live Etsy pricing result:** twenty relevant UK buyer-view listings ranged from £0.93 to £13.10; median £3.51. Michaela's £1.99 base price, recently observed at approximately £2.39 to a UK buyer, sits in the competitive entry-price cluster and below the observed median. **Recommendation: HOLD £1.99 base.** Do not reduce further or raise yet. Move conversion effort to hero imagery and traffic.
+**Pricing result:** HOLD £1.99 base. Twenty relevant UK buyer-view listings ranged from £0.93 to £13.10; median £3.51. Move conversion effort to hero imagery and traffic.
+
+**21 September hero result:** Fresh Etsy search-image evidence shows the strongest relevant listings lead with a large recognisable spreadsheet/dashboard, immediate category/format recognition, short copy and product proof rather than decoration. The category is often visually noisy, which creates an Ikhaya differentiation opportunity. Hero classification: **IMPROVE, not rebuild**. Retain the refined cream/forest-green/cranberry direction, make the real Dashboard roughly 60-70% of meaningful hero area, use concise `Christmas Gift Organiser` + `Google Sheets | Gifts, Budget & Wrapping` messaging, and move six-tab explanation into later listing images. Final rendered hero QA remains pending direct access to the current hero image.
 
 **Remaining actions:**
 1. Produce/QA first-wave Christmas Pins with real product proof when Canva transfer permits.
-2. Run the Christmas hero image through actual search-thumbnail competitive review and prepare a replacement only if it loses the click beside competitors.
+2. Apply the QA-passed hero specification only if direct rendered-thumbnail inspection confirms the current hero loses the click; do not rebuild unnecessarily.
 3. Continue organic distribution; no paid advertising.
 4. Record qualified traffic/downstream Etsy signals and iterate by evidence.
 
 ### NEXT: whole-shop Etsy competitive pricing + hero audit
 
-This is now a concrete active workstream, not a generic future audit.
+Concrete active workstream. For every live listing: search Etsy using realistic buyer terms; capture buyer-visible competitor pricing/scope; assess trust/sales/review signals where visible; assess search-thumbnail/mobile hero performance; classify KEEP / IMPROVE / REPLACE; recommend a conversion-led price range; prioritise the changes with greatest likely commercial impact.
 
-For every live Ikhaya Designs GB listing:
-- search Etsy using realistic buyer terms;
-- capture current buyer-visible competitor pricing and scope;
-- assess trust/sales/review signals where visible;
-- assess hero-image performance at search-thumbnail/mobile size;
-- classify hero KEEP / IMPROVE / REPLACE;
-- recommend a realistic conversion-led price range;
-- prioritise the changes with the greatest likely commercial impact.
-
-Visual standard: **class, elegance, sophistication and organisation**. Seasonal products should still look like Ikhaya. Avoid cluttered, generic or kitsch seasonal styling. Study competitors for conversion technique, not aesthetic imitation.
-
-External price/listing changes remain behind the applicable approval gate.
+Visual standard: **class, elegance, sophistication and organisation**. Study competitors for conversion technique, not aesthetic imitation. External changes remain behind approval.
 
 ### NEXT: catalogue-wide Pinterest distribution
 
@@ -80,15 +71,9 @@ Work toward at least three quality Pins per day across the catalogue, with heavi
 
 ### ACTIVE EXCEPTION: England-specific bereavement guide
 
-Explicit owner priority despite the general pause on new products. The concept is now broader than an administration organiser and must be developed as a two-part resource:
+Explicit owner priority despite the general pause on new products. Develop as a two-part resource: **What you need to do** and **Looking after the person left behind**. Practical content must use authoritative England-specific sources. Emotional support must be substantial and cover general grief, child loss, suicide bereavement/prevention, Armed Forces-related bereavement where relevant, former carers, trustworthy support organisations and gentle non-clinical meditation/grounding/reflection support.
 
-**Part One: What you need to do.** England-specific, authoritative practical guidance on registering a death, certificates/documentation, Tell Us Once, funeral-related administration, notifications, estate administration, probate and related tasks.
-
-**Part Two: Looking after the person left behind.** A substantial emotional-support half covering general grief, child loss, suicide bereavement/prevention, Armed Forces-related bereavement where relevant, former carers after a long caring role, trustworthy support organisations, and gentle non-clinical meditation/grounding/reflection support.
-
-Research a thoughtful grief/remembrance section drawing from varied backgrounds rather than generic quote collections. Verify provenance for any quotations, respect copyright and never invent wording. Owner-mentioned sources include *How to Live When a Loved One Dies*, *The Time Traveler's Wife* and Pixar's *Coco*.
-
-Core principle: grief does not run to a timetable, people should know they are not alone, and the guide should care for the person as deliberately as it handles the paperwork.
+Research grief/remembrance thoughtfully, verify quotation provenance, respect copyright and never invent wording. Core principle: grief does not run to a timetable, people should know they are not alone, and the guide should care for the person as deliberately as it handles the paperwork.
 
 ### LATER: Ikhaya Automations education and audience growth
 
@@ -119,8 +104,9 @@ SYNC -> ASSESS -> SELECT -> EXECUTE -> QA -> RECORD -> CONTINUE -> REPORT BY EXC
 | 2026-09-15 | Christmas Gift Organiser | Built first-wave visual production board | PASS | Canva persistent implementation gate |
 | 2026-09-16 | Christmas Gift Organiser | Verified master source and mapped real product proof | PASS; fake UI rejected | Compatible Canva transfer |
 | 2026-09-17 | Christmas Gift Organiser | Reconciled live integrations and Reel production | PASS; Metricool Pinterest + Instagram connected | Canva assembly/transfer where needed |
-| 2026-09-20 | Product Manager OS | Reconciled 19-20 Sep owner brain dump into live queue | PASS; pricing, whole-shop hero audit, broader Pinterest and expanded bereavement work now explicit | None |
-| 2026-09-20 | Christmas Gift Organiser | Live Etsy UK pricing benchmark across 20 relevant listings | PASS; £0.93-£13.10 range, £3.51 median; HOLD £1.99 base | None; price change not recommended |
+| 2026-09-20 | Product Manager OS | Reconciled owner brain dump into live queue | PASS; pricing, whole-shop hero audit, broader Pinterest and expanded bereavement work explicit | None |
+| 2026-09-20 | Christmas Gift Organiser | Live Etsy UK pricing benchmark | PASS; HOLD £1.99 base | None |
+| 2026-09-21 | Christmas Gift Organiser | Fresh Etsy hero/search-thumbnail competitive audit | PASS at specification level; IMPROVE not rebuild; final rendered QA pending direct current-hero inspection | None yet |
 
 ## Current success test
 
