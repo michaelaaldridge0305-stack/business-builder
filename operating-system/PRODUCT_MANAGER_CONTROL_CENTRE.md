@@ -3,7 +3,7 @@
 **Owner:** Michaela
 **Operator:** Ikhaya Digital Product Manager
 **Status:** ACTIVE
-**Last material update:** 21 September 2026
+**Last material update:** 23 September 2026
 
 ## Purpose
 
@@ -65,6 +65,11 @@ Concrete active workstream. For every live listing: search Etsy using realistic 
 
 Visual standard: **class, elegance, sophistication and organisation**. Study competitors for conversion technique, not aesthetic imitation. External changes remain behind approval.
 
+Progress:
+- Christmas Gift Organiser: pricing HOLD £1.99; hero IMPROVE.
+- 13-Week Cash Flow Forecast: pricing HOLD £9.99; hero provisionally IMPROVE pending rendered-thumbnail inspection.
+- Notion beginner-guide category: live UK market audit completed 23 September and stored at `marketing/ikhaya-designs/notion-guide/etsy-market-audit-2026-09-23.md`. Direct ordinary beginner guides observed at £1.08, £2.83 and £8.05; a materially broader 205-page mastery guide was £23.55. Ready-made beginner-friendly Notion templates create strong substitute pressure around roughly £2-£9, often with far stronger review counts. Final Ikhaya HOLD/REDUCE/INCREASE recommendation is deliberately deferred until the exact current Ikhaya listing scope and buyer-visible price are verified rather than invented.
+
 ### NEXT: catalogue-wide Pinterest distribution
 
 Work toward at least three quality Pins per day across the catalogue, with heavier Christmas weighting while seasonally appropriate but not Christmas-only distribution. Use varied clarity, payoff, curiosity, problem, use-case, educational and product-proof angles. Pins should link to the relevant Etsy listing.
@@ -107,6 +112,8 @@ SYNC -> ASSESS -> SELECT -> EXECUTE -> QA -> RECORD -> CONTINUE -> REPORT BY EXC
 | 2026-09-20 | Product Manager OS | Reconciled owner brain dump into live queue | PASS; pricing, whole-shop hero audit, broader Pinterest and expanded bereavement work explicit | None |
 | 2026-09-20 | Christmas Gift Organiser | Live Etsy UK pricing benchmark | PASS; HOLD £1.99 base | None |
 | 2026-09-21 | Christmas Gift Organiser | Fresh Etsy hero/search-thumbnail competitive audit | PASS at specification level; IMPROVE not rebuild; final rendered QA pending direct current-hero inspection | None yet |
+| 2026-09-22 | 13-Week Cash Flow Forecast | Live Etsy competitive pricing audit | PASS; HOLD £9.99; hero provisionally IMPROVE | None |
+| 2026-09-23 | Notion Guide | Live Etsy UK market/substitute audit | PASS at market-evidence level; exact Ikhaya listing evidence still needed before final price action | None |
 
 ## Current success test
 
