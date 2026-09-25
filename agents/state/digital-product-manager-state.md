@@ -63,6 +63,19 @@ A grief/remembrance section may draw thoughtfully from contemplative/Buddhist or
 
 Continue research-led education and audience building when higher-priority Designs work is not actionable.
 
+## Pinterest completion-state rule
+
+A Pinterest item must be tracked as exactly one of these states:
+
+1. CONCEPT: angle/idea only.
+2. SPEC READY: copy, board, destination and creative specification exist, but no finished image exists.
+3. ASSET READY: a final usable Pin image exists and has passed mobile readability, orientation, spelling, product-fidelity and visual QA; metadata/link/board are also complete.
+4. READY TO SCHEDULE: ASSET READY plus an agreed publishing slot; this is the only state that may be presented to Michaela as a ready-to-schedule batch.
+5. SCHEDULED: a supported publishing integration has explicitly confirmed scheduling.
+6. PUBLISHED: publishing is explicitly confirmed.
+
+Never call a written creative specification, Canva plan or missing-screenshot asset a "ready-to-schedule batch". Never ask Michaela to schedule a Pin unless the actual final image file is available to her and the title, description, Etsy link, board and slot have all passed QA. If image production is blocked, record SPEC READY and continue another GREEN task without escalating routine incompleteness.
+
 ## Mandatory QA regressions
 
 All customer-facing visual assets must be inspected character by character for corrupted spaces, stray letters, spelling errors, malformed punctuation and AI artefacts. Real product proof must remain legible and must not be recreated/faked.
