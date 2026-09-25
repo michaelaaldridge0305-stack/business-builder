@@ -53,7 +53,7 @@ Completed durable assets include the distribution/conversion package, operations
 
 **Hero result:** IMPROVE, not rebuild. Retain refined cream/forest-green/cranberry direction, make the real Dashboard roughly 60-70% of meaningful hero area, use concise category/format messaging and move six-tab explanation later.
 
-**24 September distribution status:** live Metricool calendar reconciled. PTSD workbook published at 07:00; Book Integration Index Google Sheets pending at 12:00; Reading Journal pending at 19:00. A new three-slot native-Pinterest batch has been prepared at `marketing/ikhaya-designs/pinterest/daily-batches/2026-09-24-ready-to-schedule.md`: Christmas product-proof Pin at 15:30 on 24 Sep, Christmas budget Pin at 09:20 on 25 Sep and 13-week cash-flow educational Pin at 18:30 on 25 Sep. Metricool must not be used for new scheduling because its free publishing allowance is exhausted.
+**24 September distribution correction:** live Metricool calendar was reconciled, but the three new native-Pinterest items were only creative/metadata specifications because final usable Pin images had not been produced with genuine product proof. They are therefore **SPEC READY, not READY TO SCHEDULE**. The filename `marketing/ikhaya-designs/pinterest/daily-batches/2026-09-24-ready-to-schedule.md` is legacy/misleading naming and must not be treated as proof of completion. Do not ask Michaela to schedule these items until actual final image files exist and pass QA. Metricool must not be used for new scheduling because its free publishing allowance is exhausted.
 
 **Remaining actions:**
 1. Produce/QA first-wave Christmas Pins with real product proof when Canva transfer permits.
@@ -75,6 +75,8 @@ Progress:
 ### NEXT: catalogue-wide Pinterest distribution
 
 Target up to three quality Pins per day across the catalogue, heavier Christmas weighting while seasonally appropriate but not Christmas-only. Before every daily batch, reconcile confirmed scheduled/published posts against plans and avoid duplicates. New posts are prepared for Pinterest native scheduling, not Metricool. Durable daily batches live under `marketing/ikhaya-designs/pinterest/daily-batches/`.
+
+**Completion gate:** use CONCEPT -> SPEC READY -> ASSET READY -> READY TO SCHEDULE -> SCHEDULED -> PUBLISHED. A batch is not READY TO SCHEDULE unless each Pin has an actual final image file that passed mobile/orientation/spelling/product-fidelity QA plus complete title, description, exact Etsy link, board and publishing slot. Written specs or Canva plans remain SPEC READY. If asset creation is blocked, continue another GREEN task rather than handing incomplete production work to Michaela.
 
 ### ACTIVE EXCEPTION: England-specific bereavement guide
 
@@ -116,7 +118,8 @@ SYNC -> ASSESS -> SELECT -> EXECUTE -> QA -> RECORD -> CONTINUE -> REPORT BY EXC
 | 2026-09-21 | Christmas Gift Organiser | Fresh Etsy hero/search-thumbnail competitive audit | PASS at specification level; IMPROVE not rebuild | None yet |
 | 2026-09-22 | 13-Week Cash Flow Forecast | Live Etsy competitive pricing audit | PASS; HOLD £9.99; hero provisionally IMPROVE | None |
 | 2026-09-23 | Notion Guide | Live Etsy UK market/substitute audit | PASS at market-evidence level | None |
-| 2026-09-24 | Pinterest daily distribution | Reconciled live calendar and prepared next 3 non-duplicate Pin slots | PASS at metadata/spec level; genuine screenshot render gate remains | Manual Pinterest image upload/scheduling after rendered QA |
+| 2026-09-24 | Pinterest daily distribution | Reconciled live calendar and prepared 3 non-duplicate Pin specifications | SPEC READY only; earlier "ready-to-schedule" wording corrected because final images do not exist | None until actual images pass QA |
+| 2026-09-25 | Product Manager OS | Added Pinterest completion-state gate after incomplete batch was mislabelled | PASS; specs can no longer be reported as ready-to-schedule | None |
 
 ## Current success test
 
