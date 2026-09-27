@@ -41,7 +41,7 @@ Build an accurate journey map using current authoritative sources. Cover at mini
 - property, vehicles, digital accounts, utilities, insurance, banking, pensions, memberships and subscriptions;
 - bereavement support and safeguarding/signposting.
 
-Separate England and Wales, Scotland and Northern Ireland wherever the process or terminology materially differs. Never imply one UK-wide rule where there are jurisdictional differences.
+Separate England, Scotland and Northern Ireland wherever the process or terminology materially differs. Never imply one UK-wide rule where there are jurisdictional differences.
 
 Initial authoritative baseline: GOV.UK's current after-a-death journey confirms a sequence covering registration, government notification, funeral arrangements, bereavement benefits/support, estate valuation and Inheritance Tax, probate and estate administration. Tell Us Once applies in England, Scotland and Wales but not Northern Ireland and does not remove the need to contact many private organisations such as banks, mortgage providers, insurers, utilities, landlords and many pension schemes.
 
@@ -146,7 +146,7 @@ Before BUILD can begin, produce a written validation report that answers:
 3. Is there evidence that customers buy or actively seek organisational help for this problem?
 4. What is the specific paid value beyond repackaging free information?
 5. Who is the primary buyer/user?
-6. What jurisdiction should v1 cover: England and Wales only, Great Britain, or the whole UK with jurisdiction variants?
+6. What jurisdiction should v1 cover: England only, Great Britain, or the whole UK with jurisdiction variants?
 7. What exact format best solves the problem?
 8. What is the evidence-based price range?
 9. What are the strongest Etsy/Pinterest discovery routes?
